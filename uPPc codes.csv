@@ -1,0 +1,38 @@
+polyphenol,ppname,origin,class,conc.order
+uPPc_1,Protocatechuic acid,Microbiota,Phenolic acids,25
+uPPc_10,Gallocatechin,Food,Flavonoids,18
+uPPc_11,3-Hydroxybenzoic acid,Microbiota,Phenolic acids,15
+uPPc_12,4-Hydroxybenzoic acid,Microbiota,Phenolic acids,29
+uPPc_13,Tyrosol,Food,Tyrosols,2
+uPPc_14,3-Hydroxyphenylacetic acid,Microbiota,Phenolic acids,26
+uPPc_15,4-Hydroxyphenylacetic acid,Microbiota,Phenolic acids,33
+uPPc_16,m-Coumaric acid,Microbiota,Phenolic acids,12
+uPPc_17,p-Coumaric acid,Food/Microbiota,Phenolic acids,11
+uPPc_18,Vanillic acid,Food/Microbiota,Phenolic acids,30
+uPPc_19,Naringenin,Food,Flavonoids,6
+uPPc_2,Hydroxytyrosol,Food,Tyrosols,16
+uPPc_20,Phloretin,Food,Dihydrochalcones,97
+uPPc_21,Kaempferol,Food,Flavonoids,24
+uPPc_22,(-)-Epicatechin,Food,Flavonoids,21
+uPPc_23,(+)-Catechin,Food,Flavonoids,22
+uPPc_24,Hesperetin,Food,Flavonoids,3
+uPPc_25,Homovanillic acid,Microbiota,Phenolic acids,27
+uPPc_26,Isorhamnetin,Endogenous,Flavonoids,34
+uPPc_27,Ferulic acid,Food/Endogenous,Phenolic acids,23
+uPPc_28,Resveratrol,Food,Stilbenes,5
+uPPc_29,Quercetin,Food,Flavonoids,32
+uPPc_3,"3,5-Dihydroxybenzoic acid",Microbiota,Phenolic acids,14
+uPPc_30,Procyanidin dimer B1 and B2,Food,Flavonoids,98
+uPPc_33,Caffeic acid,Food,Phenolic acids,31
+uPPc_34,Equol,Microbiota,Flavonoids,99
+uPPc_35,Daidzein,Food,Flavonoids,8
+uPPc_36,Enterolactone,Microbiota,Lignans,9
+uPPc_37,Enterodiol,Microbiota,Lignans,1
+uPPc_38,Gallic acid,Food,Phenolic acids,13
+uPPc_39,Gallic acid ethyl ester,Food,Phenolic acids,7
+uPPc_4,"3,4-Dihydroxyphenylacetic acid",Microbiota,Phenolic acids,17
+uPPc_5,Genistein,Food,Flavonoids,4
+uPPc_6,Apigenin,Food,Flavonoids,10
+uPPc_7,"3,4-Dihydroxyphenylpropionic acid",Microbiota,Phenolic acids,28
+uPPc_8,"3,5-Dihydroxyphenylpropionic acid",Microbiota,Phenolic acids,19
+uPPc_9,Epigallocatechin,Food,Flavonoids,20

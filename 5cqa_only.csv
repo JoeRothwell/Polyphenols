@@ -1,0 +1,29 @@
+method.full,method,food,food2,process,compound,mean.rf
+1 - Chromatography,Chrom,"Common bean [Others], whole, raw",Bean (other),Boiled,5-Caffeoylquinic acid,0.332022733
+1 - Chromatography,Chrom,"Common bean [Others], whole, raw",Bean (other),Pressure-boiled,5-Caffeoylquinic acid,0.363403617
+1 - Chromatography,Chrom,"Common bean [Others], whole, raw",Bean (other),Pressure-steamed,5-Caffeoylquinic acid,0.354397749
+1 - Chromatography,Chrom,"Common bean [Others], whole, raw",Bean (other),Steamed,5-Caffeoylquinic acid,0.145784712
+1 - Chromatography,Chrom,"Common bean [Black], whole, raw",Black bean,Boiled,5-Caffeoylquinic acid,0.453864998
+1 - Chromatography,Chrom,"Common bean [Black], whole, raw",Black bean,Pressure-boiled,5-Caffeoylquinic acid,0.30835009
+1 - Chromatography,Chrom,"Common bean [Black], whole, raw",Black bean,Pressure-steamed,5-Caffeoylquinic acid,0.85988172
+1 - Chromatography,Chrom,"Common bean [Black], whole, raw",Black bean,Steamed,5-Caffeoylquinic acid,0.399455974
+2 - Chromatography after hydrolysis,Chrom hydrol,"Broccoli, raw",Broccoli*,Boiled,5-Caffeoylquinic acid,0.391764716
+2 - Chromatography after hydrolysis,Chrom hydrol,"Broccoli, raw",Broccoli*,Fried,5-Caffeoylquinic acid,0.377450958
+2 - Chromatography after hydrolysis,Chrom hydrol,"Broccoli, raw",Broccoli*,Steamed,5-Caffeoylquinic acid,0.431148465
+1 - Chromatography,Chrom,"Carrot, raw",Carrot,Boiled,5-Caffeoylquinic acid,0.525585395
+2 - Chromatography after hydrolysis,Chrom hydrol,"Cauliflower, raw",Cauliflower*,Boiled,5-Caffeoylquinic acid,1.015132427
+2 - Chromatography after hydrolysis,Chrom hydrol,"Cauliflower, raw",Cauliflower*,Steamed,5-Caffeoylquinic acid,1.844892782
+1 - Chromatography,Chrom,"Eggplant [Purple], peeled, raw",Eggplant,Boiled,5-Caffeoylquinic acid,3.076576002
+1 - Chromatography,Chrom,"Eggplant [Purple], peeled, raw",Eggplant,Grilled,5-Caffeoylquinic acid,2.347107315
+1 - Chromatography,Chrom,"Globe artichoke, heads, raw",Globe artichoke,Boiled,5-Caffeoylquinic acid,1.497669926
+1 - Chromatography,Chrom,"Globe artichoke, heads, raw",Globe artichoke,Fried,5-Caffeoylquinic acid,1.333508263
+1 - Chromatography,Chrom,"Globe artichoke, heads, raw",Globe artichoke,Pressure-boiled,5-Caffeoylquinic acid,2.066974683
+1 - Chromatography,Chrom,"Globe artichoke, heads, raw",Globe artichoke,Steamed,5-Caffeoylquinic acid,2.431860027
+1 - Chromatography,Chrom,"Potato, peeled, raw",Potato (peeled),Baked,5-Caffeoylquinic acid,0.706964194
+1 - Chromatography,Chrom,"Potato, peeled, raw",Potato (peeled),Boiled,5-Caffeoylquinic acid,0.823115814
+1 - Chromatography,Chrom,"Potato, peeled, raw",Potato (peeled),Microwaved,5-Caffeoylquinic acid,0.797445084
+1 - Chromatography,Chrom,"Potato, raw",Potato w. skin,Boiled,5-Caffeoylquinic acid,0.676641397
+1 - Chromatography,Chrom,"Tomato, whole, raw",Tomato,Canned,5-Caffeoylquinic acid,1.000432014
+2 - Chromatography after hydrolysis,Chrom hydrol,"Zucchini, raw",Zucchini*,Boiled,5-Caffeoylquinic acid,0
+2 - Chromatography after hydrolysis,Chrom hydrol,"Zucchini, raw",Zucchini*,Fried,5-Caffeoylquinic acid,0
+2 - Chromatography after hydrolysis,Chrom hydrol,"Zucchini, raw",Zucchini*,Steamed,5-Caffeoylquinic acid,0

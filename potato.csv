@@ -1,0 +1,25 @@
+method.group,food,process,compound,subclass,mean.rf
+1 - Chromatography,"Potato, peeled, raw",Baked,3-Caffeoylquinic acid,Hydroxycinnamic acid,1.159271967
+1 - Chromatography,"Potato, peeled, raw",Baked,4-Caffeoylquinic acid,Hydroxycinnamic acid,0.584404125
+1 - Chromatography,"Potato, peeled, raw",Baked,5-Caffeoylquinic acid,Hydroxycinnamic acid,0.706964194
+1 - Chromatography,"Potato, peeled, raw",Baked,Caffeic acid,Hydroxycinnamic acid,8.134764342
+1 - Chromatography,"Potato, peeled, raw",Boiled,3-Caffeoylquinic acid,Hydroxycinnamic acid,1.371736345
+1 - Chromatography,"Potato, peeled, raw",Boiled,4-Caffeoylquinic acid,Hydroxycinnamic acid,0.794293302
+1 - Chromatography,"Potato, peeled, raw",Boiled,5-Caffeoylquinic acid,Hydroxycinnamic acid,0.823115814
+1 - Chromatography,"Potato, peeled, raw",Boiled,Caffeic acid,Hydroxycinnamic acid,0.148259571
+1 - Chromatography,"Potato, peeled, raw",Boiled,Quercetin 3-O-diglucoside,Flavonol,0.355555582
+1 - Chromatography,"Potato, peeled, raw",Boiled,Quercetin 3-O-glu-rham-gluc,Flavonol,0.369230795
+1 - Chromatography,"Potato, peeled, raw",Boiled,Quercetin 3-O-rutinoside,Flavonol,0.533333349
+1 - Chromatography,"Potato, peeled, raw",Fried,Quercetin 3-O-diglucoside,Flavonol,0.39111114
+1 - Chromatography,"Potato, peeled, raw",Fried,Quercetin 3-O-glu-rham-gluc,Flavonol,0.372307723
+1 - Chromatography,"Potato, peeled, raw",Fried,Quercetin 3-O-rutinoside,Flavonol,0.44
+1 - Chromatography,"Potato, peeled, raw",Microwaved,3-Caffeoylquinic acid,Hydroxycinnamic acid,0.514947553
+1 - Chromatography,"Potato, peeled, raw",Microwaved,4-Caffeoylquinic acid,Hydroxycinnamic acid,0.803649602
+1 - Chromatography,"Potato, peeled, raw",Microwaved,5-Caffeoylquinic acid,Hydroxycinnamic acid,0.797445084
+1 - Chromatography,"Potato, peeled, raw",Microwaved,Caffeic acid,Hydroxycinnamic acid,6.087079441
+1 - Chromatography,"Potato, peeled, raw",Microwaved,Quercetin 3-O-diglucoside,Flavonol,0.413333364
+1 - Chromatography,"Potato, peeled, raw",Microwaved,Quercetin 3-O-glu-rham-gluc,Flavonol,0.39346157
+1 - Chromatography,"Potato, peeled, raw",Microwaved,Quercetin 3-O-rutinoside,Flavonol,0.387500018
+1 - Chromatography,"Potato, peeled, raw",Steamed,Quercetin 3-O-diglucoside,Flavonol,0.54444447
+1 - Chromatography,"Potato, peeled, raw",Steamed,Quercetin 3-O-glu-rham-gluc,Flavonol,0.565384611
+1 - Chromatography,"Potato, peeled, raw",Steamed,Quercetin 3-O-rutinoside,Flavonol,0.54444447

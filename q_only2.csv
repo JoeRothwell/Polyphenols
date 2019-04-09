@@ -1,0 +1,21 @@
+method.full,method,food,food2,process,compound,mean.rf,ref
+1 - Chromatography,Chrom,"Cauliflower, raw",Cauliflower,Blanched,Quercetin,2.395964622,Puuponen-Pimia 2003
+1 - Chromatography,Chrom,"Common cabbage [Unknown colour], raw",Common cabbage,Blanched,Quercetin,1.66272378,Puuponen-Pimia 2003
+1 - Chromatography,Chrom,"Tomato, whole, raw",Tomato,Canned,Quercetin,0.6875,Vallverdu-queralt 2011_2
+2 - Chromatography after hydrolysis,Chrom hydrol,"Potato [Purple], raw",Purple potato*,Baked,Quercetin,1.090666683,Harnly 2006
+2 - Chromatography after hydrolysis,Chrom hydrol,"Kale, raw",Kale*,Blanched,Quercetin,0.430769205,Korus 2012
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [Unknown color], raw",Onion (all types)*,Blanched,Quercetin,0.530487818,Ewald 1999
+2 - Chromatography after hydrolysis,Chrom hydrol,"Broccoli, raw",Broccoli*,Boiled,Quercetin,0.220025319,"Harnly 2006, Miglio"
+2 - Chromatography after hydrolysis,Chrom hydrol,"Carrot, raw",Carrot*,Boiled,Quercetin,0.374877449,Mazzeo 2011
+2 - Chromatography after hydrolysis,Chrom hydrol,"Kale, raw",Kale*,Boiled,Quercetin,0.265174818,Korus 2012
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [Unknown color], raw",Onion (all types)*,Boiled,Quercetin,0.445609763,Ewald 1999
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [White], raw",Onion (white)*,Boiled,Quercetin,0.221315775,Crozier 1997
+2 - Chromatography after hydrolysis,Chrom hydrol,"Broccoli, raw",Broccoli*,Fried,Quercetin,0.210317463,Miglio 2008
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [Unknown color], raw",Onion (all types)*,Fried,Quercetin,0.423414637,Ewald 1999
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [White], raw",Onion (white)*,Fried,Quercetin,0.487660806,Crozier 1997
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [Unknown color], raw",Onion (all types)*,Microwaved,Quercetin,0.544390224,Ewald 1999
+2 - Chromatography after hydrolysis,Chrom hydrol,"Onion [White], raw",Onion (white)*,Microwaved,Quercetin,0.337192971,Crozier 1997
+2 - Chromatography after hydrolysis,Chrom hydrol,"Spinach, raw",Spinach*,Microwaved,Quercetin,0.4875,Kuti 2004
+2 - Chromatography after hydrolysis,Chrom hydrol,"Common bean [Others], whole, raw",Common bean*,Pressure-boiled,Quercetin,0.462457497,Diaz-Batalla 2006
+2 - Chromatography after hydrolysis,Chrom hydrol,"Broccoli, raw",Broccoli*,Steamed,Quercetin,0.643809547,Miglio 2008
+2 - Chromatography after hydrolysis,Chrom hydrol,"Carrot, raw",Carrot*,Steamed,Quercetin,0.886185651,Mazzeo 2011

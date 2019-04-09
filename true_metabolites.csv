@@ -1,0 +1,384 @@
+cicon,dtaga,class,class.no,subclass,molwt,aglycwght,type,hydrolysis
+10500203,(-)-Epicatechin,Flavonoids,5,Flavanols,290,290,Aglycone,no
+10500503,(-)-Epicatechin 3-O-gallate,Flavonoids,5,Flavanols,442,290,Aglycone,no
+10500403,(-)-Epigallocatechin,Flavonoids,5,Flavanols,306,306,Aglycone,no
+10500603,(-)-Epigallocatechin 3-O-gallate,Flavonoids,5,Flavanols,458,306,Aglycone,no
+10500103,(+)-Catechin,Flavonoids,5,Flavanols,290,290,Aglycone,no
+10901603,"2',7-Dihydroxy-4',5'-dimethoxyisoflavone",Flavonoids,5,Isoflavonoids,314,314,Aglycone,no
+10901803,2'-Hydroxyformononetin,Flavonoids,5,Isoflavonoids,284,284,Aglycone,no
+10902203,3'-Hydroxydaidzein,Flavonoids,5,Isoflavonoids,270,270,Aglycone,no
+10911003,3'-Hydroxymelanettin,Flavonoids,5,Isoflavonoids,300,300,Aglycone,no
+10511603,3'-O-Methylcatechin,Flavonoids,5,Flavanols,304,304,Aglycone,no
+10511203,3'-O-Methylepicatechin,Flavonoids,5,Flavanols,304,304,Aglycone,no
+10911703,3'-O-Methylviolanone,Flavonoids,5,Isoflavonoids,330,330,Aglycone,no
+10910403,"4'-Methoxy-2',3,7-trihydroxyisoflavanone",Flavonoids,5,Isoflavonoids,302,302,Aglycone,no
+10512103,4'-O-Methylepicatechin,Flavonoids,5,Flavanols,304,304,Aglycone,no
+10908203,"5,7-Dihydroxy-8,4'-dimethoxyisoflavone",Flavonoids,5,Isoflavonoids,314,314,Aglycone,no
+10900403,Biochanin A,Flavonoids,5,Isoflavonoids,284,284,Aglycone,no
+10200303,Butein,Flavonoids,5,Chalcones,272,272,Aglycone,no
+10910903,Butin,Flavonoids,5,Isoflavonoids,272,272,Aglycone,no
+10904503,Calycosin,Flavonoids,5,Isoflavonoids,284,284,Aglycone,no
+10102203,Cyanidin,Flavonoids,5,Anthocyanins,287,287,Aglycone,no
+10900103,Daidzein,Flavonoids,5,Isoflavonoids,254,254,Aglycone,no
+10911603,Dalbergin,Flavonoids,5,Isoflavonoids,268,268,Aglycone,no
+10905203,Dihydrodaidzein,Flavonoids,5,Isoflavonoids,256,256,Aglycone,no
+10905503,Dihydrogenistein,Flavonoids,5,Isoflavonoids,272,272,Aglycone,no
+10400203,Dihydroquercetin,Flavonoids,5,Dihydroflavonols,304,304,Aglycone,no
+10905703,Equol,Flavonoids,5,Isoflavonoids,242,242,Aglycone,no
+10600203,Eriodictyol,Flavonoids,5,Flavanones,288,288,Aglycone,no
+10900203,Formononetin,Flavonoids,5,Isoflavonoids,268,268,Aglycone,no
+10900303,Genistein,Flavonoids,5,Isoflavonoids,270,270,Aglycone,no
+10900503,Glycitein,Flavonoids,5,Isoflavonoids,284,284,Aglycone,no
+10600303,Hesperetin,Flavonoids,5,Flavanones,302,302,Aglycone,no
+10907903,Irisolidone,Flavonoids,5,Isoflavonoids,314,314,Aglycone,no
+10911503,Isoliquiritigenin,Flavonoids,5,Isoflavonoids,256,256,Aglycone,no
+10803403,Isorhamnetin,Flavonoids,5,Flavonols,316,316,Aglycone,no
+10908303,Isotectorigenin,Flavonoids,5,Isoflavonoids,300,300,Aglycone,no
+10800103,Kaempferol,Flavonoids,5,Flavonols,286,286,Aglycone,no
+10906903,Koparin,Flavonoids,5,Isoflavonoids,300,300,Aglycone,no
+10911203,Melanettin,Flavonoids,5,Isoflavonoids,284,284,Aglycone,no
+10600103,Naringenin,Flavonoids,5,Flavanones,272,272,Aglycone,no
+10907003,O-Desmethylangolensin,Flavonoids,5,Isoflavonoids,258,258,Aglycone,no
+10102103,Pelargonidin,Flavonoids,5,Anthocyanins,271,271,Aglycone,no
+10101703,Peonidin,Flavonoids,5,Anthocyanins,301,301,Aglycone,no
+10503303,Procyanidin dimer B1,Flavonoids,5,Flavanols,578,578,Aglycone,no
+10503403,Procyanidin dimer B2,Flavonoids,5,Flavanols,578,578,Aglycone,no
+10503503,Procyanidin dimer B3,Flavonoids,5,Flavanols,578,578,Aglycone,no
+10503603,Procyanidin dimer B4,Flavonoids,5,Flavanols,578,578,Aglycone,no
+10505503,Procyanidin trimer C2,Flavonoids,5,Flavanols,866,866,Aglycone,no
+10800203,Quercetin,Flavonoids,5,Flavonols,302,302,Aglycone,no
+10910703,Sativanone,Flavonoids,5,Isoflavonoids,300,300,Aglycone,no
+10911303,Stevenin,Flavonoids,5,Isoflavonoids,284,284,Aglycone,no
+10908103,Tectoridin,Flavonoids,5,Isoflavonoids,462,462,Aglycone,no
+10908003,Tectorigenin,Flavonoids,5,Isoflavonoids,300,300,Aglycone,no
+10910603,Vestitone,Flavonoids,5,Isoflavonoids,286,286,Aglycone,no
+10911403,Violanone,Flavonoids,5,Isoflavonoids,316,316,Aglycone,no
+10115903,4'-O-Methylcyanidin 3-O-D-glucoside,Flavonoids,5,Anthocyanins,463,300,Glycoside,no
+10116503,4-O-Methyldelphinidin 3-O-D-glucoside,Flavonoids,5,Anthocyanins,479,316,Glycoside,no
+10117603,4'-O-Methyldelphinidin 3-O-rutinoside,Flavonoids,5,Anthocyanins,625,317,Glycoside,no
+10901403,6''-O-Malonyldaidzin,Flavonoids,5,Isoflavonoids,502,254,Glycoside,no
+10108203,"Cyanidin 3,5-O-diglucoside",Flavonoids,5,Anthocyanins,611,287,Glycoside,no
+10110103,"Cyanidin 3-O-(2""-xylosyl-6""-(6""'-feruloyl-glucosyl)-galactoside)",Flavonoids,5,Anthocyanins,919,287,Glycoside,no
+10110003,"Cyanidin 3-O-(2""-xylosyl-6""-(6""'-sinapoyl-glucosyl)-galactoside)",Flavonoids,5,Anthocyanins,949,287,Glycoside,no
+10109603,"Cyanidin 3-O-(2""-xylosyl-6""-glucosyl-galactoside)",Flavonoids,5,Anthocyanins,743,287,Glycoside,no
+10109803,"Cyanidin 3-O-(2""-xylosyl-galactoside)",Flavonoids,5,Anthocyanins,581,287,Glycoside,no
+10117403,Cyanidin 3-O-(2-O-(6-O-(E)-caffeoyl-D glucoside)-D-glucoside)-5-O-D-glucoside,Flavonoids,5,Anthocyanins,935,287,Glycoside,no
+10116203,"Cyanidin 3-O-(3'',6''-O-dimalonyl-glucoside)",Flavonoids,5,Anthocyanins,621,287,Glycoside,no
+10108703,Cyanidin 3-O-(6''-dioxalyl-glucoside),Flavonoids,5,Anthocyanins,593,287,Glycoside,no
+10101603,Cyanidin 3-O-(6''-malonyl-glucoside),Flavonoids,5,Anthocyanins,535,287,Glycoside,no
+10103503,Cyanidin 3-O-arabinoside,Flavonoids,5,Anthocyanins,419,287,Glycoside,no
+10114103,Cyanidin 3-O-diglucoside-5-O-glucoside,Flavonoids,5,Anthocyanins,773,287,Glycoside,no
+10100803,Cyanidin 3-O-galactoside,Flavonoids,5,Anthocyanins,449,287,Glycoside,no
+10100903,Cyanidin 3-O-glucoside,Flavonoids,5,Anthocyanins,449,287,Glycoside,no
+10102403,Cyanidin 3-O-glucosyl-rutinoside,Flavonoids,5,Anthocyanins,757,287,Glycoside,no
+10101003,Cyanidin 3-O-rutinoside,Flavonoids,5,Anthocyanins,595,287,Glycoside,no
+10105303,Cyanidin 3-O-sambubioside,Flavonoids,5,Anthocyanins,581,287,Glycoside,no
+10108003,Cyanidin 3-O-sambubioside 5-O-glucoside,Flavonoids,5,Anthocyanins,743,287,Glycoside,no
+10101103,Cyanidin 3-O-sophoroside,Flavonoids,5,Anthocyanins,611,287,Glycoside,no
+10105603,Cyanidin 3-O-xyloside,Flavonoids,5,Anthocyanins,419,287,Glycoside,no
+10106503,Cyanidin 3-O-xylosyl-rutinoside,Flavonoids,5,Anthocyanins,727,287,Glycoside,no
+10901003,Daidzin,Flavonoids,5,Isoflavonoids,416,254,Glycoside,no
+10103203,Delphinidin 3-O-arabinoside,Flavonoids,5,Anthocyanins,435,303,Glycoside,no
+10103003,Delphinidin 3-O-galactoside,Flavonoids,5,Anthocyanins,465,303,Glycoside,no
+10103103,Delphinidin 3-O-glucoside,Flavonoids,5,Anthocyanins,465,303,Glycoside,no
+10105203,Delphinidin 3-O-rutinoside,Flavonoids,5,Anthocyanins,611,303,Glycoside,no
+10900703,Glycitin,Flavonoids,5,Isoflavonoids,448,284,Glycoside,no
+10600803,Hesperidin,Flavonoids,5,Flavanones,611,302,Glycoside,no
+10116603,Isopeonidin 3-O-arabinoside,Flavonoids,5,Anthocyanins,433,301,Glycoside,no
+10116703,Isopeonidin 3-O-galactoside,Flavonoids,5,Anthocyanins,463,301,Glycoside,no
+10116803,Isopeonidin 3-O-glucoside,Flavonoids,5,Anthocyanins,463,301,Glycoside,no
+10116903,Isopeonidin 3-O-rutinoside,Flavonoids,5,Anthocyanins,609,301,Glycoside,no
+10117003,Isopeonidin 3-O-sambubioside,Flavonoids,5,Anthocyanins,595,301,Glycoside,no
+10117103,Isopeonidin 3-O-xyloside,Flavonoids,5,Anthocyanins,433,301,Glycoside,no
+10804503,Isorhamnetin 3-O-glucoside,Flavonoids,5,Flavonols,478,316,Glycoside,no
+10104003,Malvidin 3-O-arabinoside,Flavonoids,5,Anthocyanins,463,331,Glycoside,no
+10105703,Malvidin 3-O-galactoside,Flavonoids,5,Anthocyanins,493,331,Glycoside,no
+10103903,Malvidin 3-O-glucoside,Flavonoids,5,Anthocyanins,493,331,Glycoside,no
+10600903,Naringin,Flavonoids,5,Flavanones,581,272,Glycoside,no
+10601203,Neohesperidin,Flavonoids,5,Flavanones,611,302,Glycoside,no
+10105403,Pelargonidin 3-O-(6''-malonyl-glucoside),Flavonoids,5,Anthocyanins,519,271,Glycoside,no
+10101203,Pelargonidin 3-O-glucoside,Flavonoids,5,Anthocyanins,433,271,Glycoside,no
+10102603,Pelargonidin 3-O-glucosyl-rutinoside,Flavonoids,5,Anthocyanins,741,271,Glycoside,no
+10102503,Pelargonidin 3-O-sophoroside,Flavonoids,5,Anthocyanins,579,271,Glycoside,no
+10114903,Peonidin 3-O-(2-O-(6-O-(E)-caffeoyl-D-glucosyl)-D-glucoside)-5-O-D-glucoside,Flavonoids,5,Anthocyanins,949,301,Glycoside,no
+10105803,Peonidin 3-O-arabinoside,Flavonoids,5,Anthocyanins,433,301,Glycoside,no
+10114203,Peonidin 3-O-diglucoside-5-O-glucoside,Flavonoids,5,Anthocyanins,787,301,Glycoside,no
+10103703,Peonidin 3-O-galactoside,Flavonoids,5,Anthocyanins,463,301,Glycoside,no
+10101803,Peonidin 3-O-glucoside,Flavonoids,5,Anthocyanins,463,301,Glycoside,no
+10101903,Peonidin 3-O-rutinoside,Flavonoids,5,Anthocyanins,609,301,Glycoside,no
+10115503,Peonidin 3-O-sambubioside,Flavonoids,5,Anthocyanins,595,301,Glycoside,no
+10115603,Peonidin 3-O-sambubioside-5-O-glucoside,Flavonoids,5,Anthocyanins,757,301,Glycoside,no
+10115303,Peonidin 3-O-sophoroside,Flavonoids,5,Anthocyanins,625,301,Glycoside,no
+10115703,Peonidin 3-O-xyloside,Flavonoids,5,Anthocyanins,433,301,Glycoside,no
+10104703,Petunidin 3-O-(6''-acetyl-glucoside),Flavonoids,5,Anthocyanins,521,317,Glycoside,no
+10103803,Petunidin 3-O-arabinoside,Flavonoids,5,Anthocyanins,449,317,Glycoside,no
+10103403,Petunidin 3-O-galactoside,Flavonoids,5,Anthocyanins,479,317,Glycoside,no
+10103603,Petunidin 3-O-glucoside,Flavonoids,5,Anthocyanins,479,317,Glycoside,no
+10907403,Puerarin,Flavonoids,5,Isoflavonoids,416,254,Glycoside,no
+10801903,"Quercetin 3,4'-O-diglucoside",Flavonoids,5,Flavonols,626,302,Glycoside,no
+10800403,Quercetin 3-O-glucoside,Flavonoids,5,Flavonols,464,302,Glycoside,no
+10800703,Quercetin 3-O-rutinoside,Flavonoids,5,Flavonols,611,302,Glycoside,no
+10513203,(-)-Epigallocatechin 3'-O-glucuronide,Flavonoids,5,Flavanols,482,306,Glucuronide,no
+10512603,(-)-Epigallocatechin 3-O-glucuronide,Flavonoids,5,Flavanols,482,306,Glucuronide,no
+10513303,(-)-Epigallocatechin 7-O-glucuronide,Flavonoids,5,Flavanols,482,306,Glucuronide,no
+10513003,3'-O-Methyl-(-)-epicatechin 7-O-glucuronide,Flavonoids,5,Flavanols,480,304,Glucuronide,no
+10511303,4'-O-Methyl-(-)-epicatechin 3'-O-glucuronide,Flavonoids,5,Flavanols,480,304,Glucuronide,no
+10513403,4'-O-Methyl-(-)-epigallocatechin 3'-O-glucuronide,Flavonoids,5,Flavanols,496,320,Glucuronide,no
+10513503,4'-O-Methyl-(-)-epigallocatechin 7-O-glucuronide,Flavonoids,5,Flavanols,496,320,Glucuronide,no
+10904803,Daidzein 4'-O-glucuronide,Flavonoids,5,Isoflavonoids,430,254,Glucuronide,no
+10905003,Daidzein 7-O-glucuronide,Flavonoids,5,Isoflavonoids,430,254,Glucuronide,no
+10907503,Daidzin 4'-O-glucuronide,Flavonoids,5,Isoflavonoids,592,254,Glucuronide,no
+10905303,Dihydrodaidzein 7-O-glucuronide,Flavonoids,5,Isoflavonoids,432,256,Glucuronide,no
+10511403,Epicatechin 3'-O-glucuronide,Flavonoids,5,Flavanols,466,290,Glucuronide,no
+10513103,Epicatechin 7-O-glucuronide,Flavonoids,5,Flavanols,466,290,Glucuronide,no
+10512203,Epigallocatechin 3-O-gallate-7-O-glucoside-4''-O-glucuronide,Flavonoids,5,Flavanols,796,458,Glucuronide,no
+10908503,Equol 4'-O-glucuronide,Flavonoids,5,Isoflavonoids,418,242,Glucuronide,no
+10908403,Equol 7-O-glucuronide,Flavonoids,5,Isoflavonoids,418,242,Glucuronide,no
+10905803,Formononetin 7-O-glucuronide,Flavonoids,5,Isoflavonoids,444,268,Glucuronide,no
+10906003,"Genistein 4',7-O-diglucuronide",Flavonoids,5,Isoflavonoids,622,270,Glucuronide,no
+10906203,Genistein 4'-O-glucuronide,Flavonoids,5,Isoflavonoids,446,270,Glucuronide,no
+10906403,Genistein 5-O-glucuronide,Flavonoids,5,Isoflavonoids,446,270,Glucuronide,no
+10906503,Genistein 7-O-glucuronide,Flavonoids,5,Isoflavonoids,446,270,Glucuronide,no
+10906703,Glycitein 4'-O-glucuronide,Flavonoids,5,Isoflavonoids,460,284,Glucuronide,no
+10906803,Glycitein 7-O-glucuronide,Flavonoids,5,Isoflavonoids,460,284,Glucuronide,no
+10603803,"Hesperetin 3',7-O-diglucuronide",Flavonoids,5,Flavanones,648,302,Glucuronide,no
+10603003,Hesperetin 3'-O-glucuronide,Flavonoids,5,Flavanones,478,302,Glucuronide,no
+10603903,"Hesperetin 5,7-O-diglucuronide",Flavonoids,5,Flavanones,648,302,Glucuronide,no
+10603103,Hesperetin 7-O-glucuronide,Flavonoids,5,Flavanones,478,302,Glucuronide,no
+10907603,Irisolidone 7-O-glucuronide,Flavonoids,5,Isoflavonoids,490,314,Glucuronide,no
+10806203,Isorhamnetin 3-O-glucuronide,Flavonoids,5,Flavonols,492,316,Glucuronide,no
+10813503,Isorhamnetin 4'-O-glucuronide,Flavonoids,5,Flavonols,492,316,Glucuronide,no
+10603503,Naringenin 4'-O-glucuronide,Flavonoids,5,Flavanones,448,272,Glucuronide,no
+10603603,Naringenin 5-O-glucuronide,Flavonoids,5,Flavanones,448,272,Glucuronide,no
+10603703,Naringenin 7-O-glucuronide,Flavonoids,5,Flavanones,448,272,Glucuronide,no
+10301403,Phloretin 2'-O-glucuronide,Flavonoids,5,Dihydrochalcones,450,274,Glucuronide,no
+10813203,Quercetin 3'-O-glucuronide,Flavonoids,5,Flavonols,478,302,Glucuronide,no
+10806103,Quercetin 3-O-glucuronide,Flavonoids,5,Flavonols,478,302,Glucuronide,no
+10813403,Quercetin 4'-O-glucuronide,Flavonoids,5,Flavonols,478,302,Glucuronide,no
+10603203,Hesperetin 3'-sulfate,Flavonoids,5,Flavanones,382,302,Sulfate,no
+10813303,Quercetin 3'-sulfate,Flavonoids,5,Flavonols,382,302,Sulfate,no
+10907803,Tectorigenin 4'-sulfate,Flavonoids,5,Isoflavonoids,380,300,Sulfate,no
+10907703,Tectorigenin 7-sulfate,Flavonoids,5,Isoflavonoids,380,300,Sulfate,no
+10901703,2-Dehydro-O-desmethylangolensin,Flavonoids,5,Isoflavonoids,256,256,Aglycone,yes
+10909503,"3',4',5,7-Tetrahydroxyisoflavanone",Flavonoids,5,Isoflavonoids,288,288,Aglycone,yes
+10901903,"3',4',7-Trihydroxyisoflavan",Flavonoids,5,Isoflavonoids,258,258,Aglycone,yes
+10902003,"3',4',7-Trihydroxyisoflavanone",Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10910203,3'-Hydroxyequol,Flavonoids,5,Isoflavonoids,258,258,Aglycone,yes
+10909903,3'-Hydroxygenistein,Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10902303,3'-Hydroxy-O-desmethylangolensin,Flavonoids,5,Isoflavonoids,274,274,Aglycone,yes
+10909703,3'-O-Methylequol,Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10511803,"4',4""-O-Dimethylepigallocatechin 3-O-gallate",Flavonoids,5,Flavanols,486,332,Aglycone,yes
+10902403,"4',6,7-Trihydroxyisoflavanone",Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10902603,"4',7-Dihydroxy-3'-methoxyisoflavan",Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10902703,"4',7-Dihydroxy-6-methoxyisoflavan",Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10511903,4'-O-Methylepigallocatechin,Flavonoids,5,Flavanols,320,320,Aglycone,yes
+10512003,4''-O-Methylepigallocatechin 3-O-gallate,Flavonoids,5,Flavanols,472,320,Aglycone,yes
+10902903,4'-O-Methylequol,Flavonoids,5,Isoflavonoids,256,256,Aglycone,yes
+10903003,"5,6,7,3',4'-Pentahydroxyisoflavone",Flavonoids,5,Isoflavonoids,302,302,Aglycone,yes
+10903103,"5,6,7,4'-Tetrahydroxyisoflavone",Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10903203,"5,7,8,3',4'-Pentahydroxyisoflavone",Flavonoids,5,Isoflavonoids,302,302,Aglycone,yes
+10903303,"5,7,8,4'-Tetrahydroxyisoflavone",Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10903403,5'-Hydroxy-O-desmethylangolensin,Flavonoids,5,Isoflavonoids,274,274,Aglycone,yes
+10903503,5'-Methoxy-O-desmethylangolensin,Flavonoids,5,Isoflavonoids,288,288,Aglycone,yes
+10903603,"6,7,3',4'-Tetrahydroxyisoflavone",Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10903703,"6,7,4'-Trihydroxyisoflavone",Flavonoids,5,Isoflavonoids,270,270,Aglycone,yes
+10903803,6'-Hydroxyangolensin,Flavonoids,5,Isoflavonoids,288,288,Aglycone,yes
+10910103,6-Hydroxydihydrodaidzein,Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10903903,6'-Hydroxy-O-desmethylangolensin,Flavonoids,5,Isoflavonoids,274,274,Aglycone,yes
+10909803,6-O-Methylequol,Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10904203,"7,8,3',4'-Tetrahydroxyisoflavone",Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10904303,"7,8,4'-Trihydroxyisoflavone",Flavonoids,5,Isoflavonoids,270,270,Aglycone,yes
+10911803,8-Hydroxydihydrodaidzein,Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10904403,Angolensin,Flavonoids,5,Isoflavonoids,272,272,Aglycone,yes
+10910303,cis-4-Hydroxyequol,Flavonoids,5,Isoflavonoids,258,258,Aglycone,yes
+10905103,Dihydrobiochanin A,Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10905403,Dihydroformononetin,Flavonoids,5,Isoflavonoids,270,270,Aglycone,yes
+10905603,Dihydroglycitein,Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10603403,Homoeriodictyol,Flavonoids,5,Flavanones,302,302,Aglycone,yes
+10910503,Irilone,Flavonoids,5,Isoflavonoids,298,298,Aglycone,yes
+10602103,Isosakuranetin,Flavonoids,5,Flavanones,286,286,Aglycone,yes
+10907103,Orobol,Flavonoids,5,Isoflavonoids,286,286,Aglycone,yes
+10300103,Phloretin,Flavonoids,5,Dihydrochalcones,274,274,Aglycone,yes
+10907203,Prunetin,Flavonoids,5,Isoflavonoids,284,284,Aglycone,yes
+10907303,Pseudobaptigenin,Flavonoids,5,Isoflavonoids,282,282,Aglycone,yes
+10501203,Theaflavin,Flavonoids,5,Flavanols,564,564,Aglycone,yes
+30210003,"1,5-Dicaffeoylquinic acid",Phenolic acids,4,Hydroxycinnamic acids,516,180,Aglycone,no
+30228603,"1,5-Diferuloylquinic acid",Phenolic acids,4,Hydroxycinnamic acids,544,194,Aglycone,no
+30228703,1-Caffeoyl-5-feruloylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,530,180,Aglycone,no
+30228803,1-Feruloyl-5-caffeoylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,530,194,Aglycone,no
+30103703,"2,3-Dihydroxybenzoic acid",Phenolic acids,4,Hydroxybenzoic acids,154,154,Aglycone,no
+30103803,"2,4-Dihydroxybenzoic acid",Phenolic acids,4,Hydroxybenzoic acids,154,154,Aglycone,no
+30103503,2-Hydroxybenzoic acid,Phenolic acids,4,Hydroxybenzoic acids,138,138,Aglycone,no
+30112803,2-Hydroxyhippuric acid,Phenolic acids,4,Hydroxybenzoic acids,195,195,Aglycone,no
+30506503,"3-(3,4-Dihydroxyphenyl)-2-methoxypropionic acid",Phenolic acids,4,Hydroxyphenylpropanoic acids,212,212,Aglycone,no
+30209303,"3,4-Dicaffeoylquinic acid",Phenolic acids,4,Hydroxycinnamic acids,516,180,Aglycone,no
+30304803,"3,4-Dihydroxyphenylacetic acid",Phenolic acids,4,Hydroxyphenylacetic acids,168,168,Aglycone,no
+30508103,"3,4-Dihydroxyphenyllactic acid methyl ester",Phenolic acids,4,Hydroxyphenylpropanoic acids,212,212,Aglycone,no
+30204203,"3,5-Dicaffeoylquinic acid",Phenolic acids,4,Hydroxycinnamic acids,516,180,Aglycone,no
+30202503,3-Caffeoylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,354,180,Aglycone,no
+30203803,3-Feruloylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,368,194,Aglycone,no
+30506403,3-Hydroxy-3-(3-hydroxyphenyl)propionic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,182,182,Aglycone,no
+30508403,3-Hydroxy-4-methoxyphenyllactic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,212,212,Aglycone,no
+30103603,3-Hydroxybenzoic acid,Phenolic acids,4,Hydroxybenzoic acids,138,138,Aglycone,no
+30112703,3-Hydroxyhippuric acid,Phenolic acids,4,Hydroxybenzoic acids,195,195,Aglycone,no
+30306003,3-Hydroxyphenylacetic acid,Phenolic acids,4,Hydroxyphenylacetic acids,152,152,Aglycone,no
+30506603,3-Hydroxyphenylpropionic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,166,166,Aglycone,no
+30507903,3-Methoxy-4-hydroxyphenyllactic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,212,212,Aglycone,no
+30219603,3-O-Methylrosmarinic acid,Phenolic acids,4,Hydroxycinnamic acids,374,194,Aglycone,no
+30210103,"4,5-Dicaffeoylquinic acid",Phenolic acids,4,Hydroxycinnamic acids,516,180,Aglycone,no
+30203703,4-Feruloylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,368,194,Aglycone,no
+30600303,"4-Hydroxy-(3',4'-dihydroxyphenyl)valeric acid",Phenolic acids,4,Hydroxyphenylpentanoic acids,226,226,Aglycone,no
+30100903,4-Hydroxybenzoic acid,Phenolic acids,4,Hydroxybenzoic acids,138,138,Aglycone,no
+30112603,4-Hydroxyhippuric acid,Phenolic acids,4,Hydroxybenzoic acids,195,195,Aglycone,no
+30305003,4-Hydroxyphenylacetic acid,Phenolic acids,4,Hydroxyphenylacetic acids,152,152,Aglycone,no
+30600703,"5-(3',4',5'-trihydroxyphenyl)-?-valerolactone",Phenolic acids,4,Hydroxyphenylpentanoic acids,224,224,Aglycone,no
+30600503,"5-(3',4',-dihydroxyphenyl)-?-valerolactone",Phenolic acids,4,Hydroxyphenylpentanoic acids,208,208,Aglycone,no
+30600803,"5-(3',5'-dihydroxyphenyl)-?-valerolactone",Phenolic acids,4,Hydroxyphenylpentanoic acids,208,208,Aglycone,no
+30600103,5-(3'-Methoxy-4'-hydroxyphenyl)-?-valerolactone,Phenolic acids,4,Hydroxyphenylpentanoic acids,222,222,Aglycone,no
+30203303,5-Caffeoylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,354,180,Aglycone,no
+30203603,5-Feruloylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,368,194,Aglycone,no
+30103403,Benzoic acid,Phenolic acids,4,Hydroxybenzoic acids,122,122,Aglycone,no
+30200503,Caffeic acid,Phenolic acids,4,Hydroxycinnamic acids,180,180,Aglycone,no
+30507703,Danshensu,Phenolic acids,4,Hydroxyphenylpropanoic acids,198,198,Aglycone,no
+30506303,Dihydrocaffeic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,182,182,Aglycone,no
+30507203,Dihydroferulic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,196,196,Aglycone,no
+30507603,Dihydroferuloylglycine,Phenolic acids,4,Hydroxyphenylpropanoic acids,253,253,Aglycone,no
+30506003,Dihydro-p-coumaric acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,166,166,Aglycone,no
+30507403,Dihydrosinapic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,240,240,Aglycone,no
+30100803,Ellagic acid,Phenolic acids,4,Hydroxybenzoic acids,302,302,Aglycone,no
+30200803,Ferulic acid,Phenolic acids,4,Hydroxycinnamic acids,194,194,Aglycone,no
+30225203,Feruloylglycine,Phenolic acids,4,Hydroxycinnamic acids,251,251,Aglycone,no
+30112003,Gallagic acid,Phenolic acids,4,Hydroxybenzoic acids,602,602,Aglycone,no
+30100303,Gallic acid,Phenolic acids,4,Hydroxybenzoic acids,170,170,Aglycone,no
+30108503,Gallic acid ethyl ester,Phenolic acids,4,Hydroxybenzoic acids,198,170,Aglycone,no
+30100703,Gentisic acid,Phenolic acids,4,Hydroxybenzoic acids,154,154,Aglycone,no
+30112903,Hippuric acid,Phenolic acids,4,Hydroxybenzoic acids,179,179,Aglycone,no
+30305203,Homovanillic acid,Phenolic acids,4,Hydroxyphenylacetic acids,182,182,Aglycone,no
+30508203,Hydroxydanshensu,Phenolic acids,4,Hydroxyphenylpropanoic acids,214,214,Aglycone,no
+30204303,Isoferulic acid,Phenolic acids,4,Hydroxycinnamic acids,194,194,Aglycone,no
+30201303,m-Coumaric acid,Phenolic acids,4,Hydroxycinnamic acids,164,164,Aglycone,no
+30200103,p-Coumaric acid,Phenolic acids,4,Hydroxycinnamic acids,164,164,Aglycone,no
+30306503,Phenacetylglycine,Phenolic acids,4,Hydroxyphenylacetic acids,193,193,Aglycone,no
+30306603,Phenylacetic acid,Phenolic acids,4,Hydroxyphenylacetic acids,152,152,Aglycone,no
+30100203,Protocatechuic acid,Phenolic acids,4,Hydroxybenzoic acids,154,154,Aglycone,no
+30112503,Punicalin,Phenolic acids,4,Hydroxybenzoic acids,782,782,Aglycone,no
+30201103,Rosmarinic acid,Phenolic acids,4,Hydroxycinnamic acids,360,180,Aglycone,no
+30202203,Sinapic acid,Phenolic acids,4,Hydroxycinnamic acids,224,224,Aglycone,no
+30102003,Syringic acid,Phenolic acids,4,Hydroxybenzoic acids,198,198,Aglycone,no
+30100403,Vanillic acid,Phenolic acids,4,Hydroxybenzoic acids,168,168,Aglycone,no
+30113003,Paeoniflorin,Phenolic acids,4,Hydroxybenzoic acids,480,,Glycoside,no
+30111903,Punicalagin,Phenolic acids,4,Hydroxybenzoic acids,1084,302,Glycoside,no
+30601103,"5-(3',5'-dihydroxyphenyl)-?-valerolactone 3-O-glucuronide",Phenolic acids,4,Hydroxyphenylpentanoic acids,384,208,Glucuronide,no
+30227203,Caffeic acid 3-O-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,356,180,Glucuronide,no
+30227303,Caffeic acid 4-O-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,356,180,Glucuronide,no
+30227403,Caffeoyl C1-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,356,180,Glucuronide,no
+30507003,Dihydrocaffeic acid 3-O-glucuronide,Phenolic acids,4,Hydroxyphenylpropanoic acids,358,182,Glucuronide,no
+30507303,Dihydroferulic acid 4-O-glucuronide,Phenolic acids,4,Hydroxyphenylpropanoic acids,372,196,Glucuronide,no
+30225603,Ferulic acid 4-O-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,370,194,Glucuronide,no
+30226003,Feruloyl C1-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,370,194,Glucuronide,no
+30225303,Isoferulic acid 3-O-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,370,194,Glucuronide,no
+30226103,Isoferuloyl C1-glucuronide,Phenolic acids,4,Hydroxycinnamic acids,370,194,Glucuronide,no
+30225803,Caffeic acid 3-sulfate,Phenolic acids,4,Hydroxycinnamic acids,260,180,Sulfate,no
+30225703,Caffeic acid 4-sulfate,Phenolic acids,4,Hydroxycinnamic acids,260,180,Sulfate,no
+30507103,Dihydrocaffeic acid 3-sulfate,Phenolic acids,4,Hydroxyphenylpropanoic acids,262,182,Sulfate,no
+30506703,Dihydroferulic acid 4-sulfate,Phenolic acids,4,Hydroxyphenylpropanoic acids,276,196,Sulfate,no
+30225503,Ferulic acid 4-sulfate,Phenolic acids,4,Hydroxycinnamic acids,274,194,Sulfate,no
+30225403,Isoferulic acid 3-sulfate,Phenolic acids,4,Hydroxycinnamic acids,274,194,Sulfate,no
+90809203,Vanillic acid 4-sulfate,Phenolic acids,4,Hydroxybenzoic acids,248,168,Sulfate,no
+30306803,2-Hydroxy-2-phenylacetic acid,Phenolic acids,4,Hydroxyphenylacetic acids,152,152,Aglycone,yes
+30306103,2-Hydroxyphenylacetic acid,Phenolic acids,4,Hydroxyphenylacetic acids,152,152,Aglycone,yes
+30109903,"3,4-O-Dimethylgallic acid",Phenolic acids,4,Hydroxybenzoic acids,198,198,Aglycone,yes
+30107803,"3,5-Dihydroxybenzoic acid",Phenolic acids,4,Hydroxybenzoic acids,154,154,Aglycone,yes
+30601003,3-Hydroxyphenylvaleric acid,Phenolic acids,4,Hydroxyphenylpentanoic acids,194,194,Aglycone,yes
+30109703,3-O-Methylgallic acid,Phenolic acids,4,Hydroxybenzoic acids,184,184,Aglycone,yes
+30508303,3-Phenylpropionic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,150,150,Aglycone,yes
+30306703,4-Hydroxymandelic acid,Phenolic acids,4,Hydroxyphenylacetic acids,168,168,Aglycone,yes
+30508603,4-Hydroxyphenyl-2-propionic acid,Phenolic acids,4,Hydroxyphenylpropanoic acids,166,166,Aglycone,yes
+30109803,4-O-Methylgallic acid,Phenolic acids,4,Hydroxybenzoic acids,184,184,Aglycone,yes
+30600403,"5-(3',4'-dihydroxyphenyl)-valeric acid",Phenolic acids,4,Hydroxyphenylpentanoic acids,210,210,Aglycone,yes
+30200203,5-p-Coumaroylquinic acid,Phenolic acids,4,Hydroxycinnamic acids,338,164,Aglycone,yes
+30305903,Methoxyphenylacetic acid,Phenolic acids,4,Hydroxyphenylacetic acids,166,166,Aglycone,yes
+60101903,"3,4,5,4'-Tetramethoxystilbene",Stilbenes,3,Stilbenes,300,300,Aglycone,no
+60102003,"3'-Hydroxy-3,4,5,4'-tetramethoxystilbene",Stilbenes,3,Stilbenes,316,316,Aglycone,no
+60102303,"4'-Hydroxy-3,4,5-trimethoxystilbene",Stilbenes,3,Stilbenes,286,286,Aglycone,no
+60102403,"4-Hydroxy-3,5,4'-trimethoxystilbene",Stilbenes,3,Stilbenes,286,286,Aglycone,no
+60103803,Dihydroresveratrol,Stilbenes,3,Stilbenes,230,230,Aglycone,no
+60101703,Resveratrol,Stilbenes,3,Stilbenes,228,228,Aglycone,no
+60100103,Trans-Resveratrol,Stilbenes,3,Stilbenes,228,228,Aglycone,no
+60102503,cis-Resveratrol 3-O-glucuronide,Stilbenes,3,Stilbenes,404,228,Glucuronide,no
+60102703,cis-Resveratrol 4'-O-glucuronide,Stilbenes,3,Stilbenes,404,228,Glucuronide,no
+60103403,trans-Resveratrol 3-O-glucuronide,Stilbenes,3,Stilbenes,404,228,Glucuronide,no
+60103603,trans-Resveratrol 4'-O-glucuronide,Stilbenes,3,Stilbenes,404,228,Glucuronide,no
+60102603,cis-Resveratrol 3-sulfate,Stilbenes,3,Stilbenes,308,228,Sulfate,no
+60102803,cis-Resveratrol 4'-sulfate,Stilbenes,3,Stilbenes,308,228,Sulfate,no
+60103003,Resveratrol 3-sulfate,Stilbenes,3,Stilbenes,308,228,Sulfate,no
+60103303,"trans-Resveratrol 3,4'-disulfate",Stilbenes,3,Stilbenes,388,228,Sulfate,no
+60103203,"trans-Resveratrol 3,5-disulfate",Stilbenes,3,Stilbenes,388,228,Sulfate,no
+60103503,trans-Resveratrol 3-sulfate,Stilbenes,3,Stilbenes,308,228,Sulfate,no
+60103703,trans-Resveratrol 4'-sulfate,Stilbenes,3,Stilbenes,308,228,Sulfate,no
+70104803,Deoxyschisandrin,Lignans,2,Lignans,416,416,Aglycone,no
+70104203,Gomisin D,Lignans,2,Lignans,530,530,Aglycone,no
+70104703,Gomisin M2,Lignans,2,Lignans,386,386,Aglycone,no
+70104103,Schisandrin,Lignans,2,Lignans,432,432,Aglycone,no
+70104903,Schisandrin B,Lignans,2,Lignans,400,400,Aglycone,no
+70105103,Schisandrin C,Lignans,2,Lignans,384,384,Aglycone,no
+70104303,Schisandrol B,Lignans,2,Lignans,416,416,Aglycone,no
+70104503,Schisanhenol,Lignans,2,Lignans,402,402,Aglycone,no
+70104603,Schisantherin A,Lignans,2,Lignans,536,536,Aglycone,no
+70104403,Tigloylgomicin H,Lignans,2,Lignans,500,500,Aglycone,no
+70105203,2-Hydroxyenterodiol,Lignans,2,Lignans,318,318,Aglycone,yes
+70105803,2'-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70105503,2-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70105303,4-Hydroxyenterodiol,Lignans,2,Lignans,318,318,Aglycone,yes
+70105903,4'-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70105603,4-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70106103,5-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70105403,6-Hydroxyenterodiol,Lignans,2,Lignans,318,318,Aglycone,yes
+70106003,6'-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70105703,6-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70106203,7-Hydroxyenterolactone,Lignans,2,Lignans,314,314,Aglycone,yes
+70102203,7-Hydroxymatairesinol,Lignans,2,Lignans,374,374,Aglycone,yes
+70102503,Cyclolariciresinol,Lignans,2,Lignans,360,360,Aglycone,yes
+70103803,Enterodiol,Lignans,2,Lignans,302,302,Aglycone,yes
+70103903,Enterolactone,Lignans,2,Lignans,298,298,Aglycone,yes
+70103603,Episesaminol,Lignans,2,Lignans,370,370,Aglycone,yes
+70100303,Lariciresinol,Lignans,2,Lignans,360,360,Aglycone,yes
+70100203,Matairesinol,Lignans,2,Lignans,358,358,Aglycone,yes
+70100103,Secoisolariciresinol,Lignans,2,Lignans,362,362,Aglycone,yes
+70101603,Sesaminol,Lignans,2,Lignans,370,370,Aglycone,yes
+70104003,Sesaminol 2-O-triglucoside,Lignans,2,Lignans,777,370,Glycoside,yes
+90182403,"3,4-DHPEA-EDA",Other polyphenols,1,Tyrosols,320,154,Aglycone,no
+90160103,Catechol,Other polyphenols,1,Other polyphenols,110,110,Aglycone,no
+90120103,Homovanillyl alcohol,Other polyphenols,1,Hydroxyphenylalcohols,168,168,Aglycone,no
+90180203,Hydroxytyrosol,Other polyphenols,1,Tyrosols,154,154,Aglycone,no
+90167403,"Isopropyl 3-(3,4-dihydroxyphenyl)-2-hydroxypropanoate",Other polyphenols,1,Other polyphenols,240,240,Aglycone,no
+90166803,Lithospermic acid,Other polyphenols,1,Other polyphenols,538,538,Aglycone,no
+90181003,Oleuropein,Other polyphenols,1,Tyrosols,540,138,Aglycone,no
+90908203,Paeonol,Other polyphenols,1,Hydroxybenzoketones,166,166,Aglycone,no
+90183103,p-HPEA-EDA,Other polyphenols,1,Tyrosols,304,138,Aglycone,no
+90801303,Protocatechuic aldehyde,Other polyphenols,1,Hydroxybenzaldehydes,138,138,Aglycone,no
+90160203,Pyrogallol,Other polyphenols,1,Other polyphenols,126,126,Aglycone,no
+90908503,Resacetophenone,Other polyphenols,1,Hydroxybenzoketones,152,152,Aglycone,no
+90167003,Salvianolic acid B,Other polyphenols,1,Other polyphenols,716,716,Aglycone,no
+90167103,Salvianolic acid C,Other polyphenols,1,Other polyphenols,716,716,Aglycone,no
+90167203,Salvianolic acid D,Other polyphenols,1,Other polyphenols,716,716,Aglycone,no
+90167303,Salvianolic acid G,Other polyphenols,1,Other polyphenols,716,716,Aglycone,no
+90180103,Tyrosol,Other polyphenols,1,Tyrosols,138,138,Aglycone,no
+90112003,Urolithin A,Other polyphenols,1,Hydroxycoumarins,228,228,Aglycone,no
+90112103,Urolithin B,Other polyphenols,1,Hydroxycoumarins,212,212,Aglycone,no
+90112303,Urolithin C,Other polyphenols,1,Hydroxycoumarins,244,244,Aglycone,no
+90801403,Vanillin,Other polyphenols,1,Hydroxybenzaldehydes,152,152,Aglycone,no
+90111803,"Urolithin A 3,8-O-diglucuronide",Other polyphenols,1,Hydroxycoumarins,580,228,Glucuronide,no
+90112203,Urolithin B 3-O-glucuronide,Other polyphenols,1,Hydroxycoumarins,388,212,Glucuronide,no
+90908303,"2,4-Dihydroxyacetophenone 5-sulfate",Other polyphenols,1,Hydroxybenzoketones,216,136,Sulfate,no
+90908403,2-Hydroxy-4-methoxyacetophenone 5-sulfate,Other polyphenols,1,Hydroxybenzoketones,230,150,Sulfate,no
+90809003,Homovanillic acid 4-sulfate,Other polyphenols,1,Hydroxyphenylacetic acids,262,262,Sulfate,no
+90183703,Tyrosol 4-sulfate,Other polyphenols,1,Tyrosols,218,138,Sulfate,no
+90809103,Vanillin 4-sulfate,Other polyphenols,1,Hydroxybenzaldehydes,232,152,Sulfate,no
+90203003,4-Ethylphenol,Other polyphenols,1,Alkylphenols,122,122,Aglycone,yes
+10900603,Coumestrol,Other polyphenols,1,Coumestans,268,268,Aglycone,yes
+90908603,Norathyriol,Other polyphenols,1,Hydroxybenzoketones,260,260,Aglycone,yes
+100100103,Glycine,Non-phenolic metabolites,0,Non-phenolic metabolites,75,75,Aglycone,no
+100100803,Vanilloylglycine,Non-phenolic metabolites,0,Non-phenolic metabolites,225,225,Aglycone,no
+100100203,"1,3,5-Trimethoxybenzene",Non-phenolic metabolites,0,Non-phenolic metabolites,168,168,Aglycone,yes
+100010003,4-Ethylbenzoic acid,Non-phenolic metabolites,0,Non-phenolic metabolites,150,150,Aglycone,yes

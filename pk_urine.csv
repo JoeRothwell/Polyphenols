@@ -1,0 +1,199 @@
+bc.no,inter,species,cicon,compound,subclass,mol.wt,hydrolysis,urinary.ex,ue.error,error.measure,ue.period
+95,32,human,60101703,Resveratrol,Stilbenes,228,None,0.04,NA,NA,24
+96,32,human,60103003,Resveratrol 3-sulfate,Stilbenes,308,None,11.5,NA,NA,24
+99,33,human,60101703,Resveratrol,Stilbenes,228,None,0.04,NA,NA,24
+100,33,human,60103003,Resveratrol 3-sulfate,Stilbenes,308,None,7.5,NA,NA,24
+103,34,human,60101703,Resveratrol,Stilbenes,228,None,0.04,NA,NA,24
+104,34,human,60103003,Resveratrol 3-sulfate,Stilbenes,308,None,5.5,NA,NA,24
+107,35,human,60101703,Resveratrol,Stilbenes,228,None,0.04,NA,NA,24
+108,35,human,60103003,Resveratrol 3-sulfate,Stilbenes,308,None,5,NA,NA,24
+121,38,human,60101703,Resveratrol,Stilbenes,228,?-glucuronidase and sulfatase,52,NA,NA,24
+122,39,human,60101703,Resveratrol,Stilbenes,228,?-glucuronidase and sulfatase,34,NA,NA,24
+123,40,human,60101703,Resveratrol,Stilbenes,228,?-glucuronidase and sulfatase,26,NA,NA,24
+135,45,human,10800203,Quercetin,Flavonols,302,?-glucuronidase and sulfatase,7.6,NA,NA,24
+155,51,human,60101703,Resveratrol,Stilbenes,228,None,70.5,4.3,NA,NA
+169,61,rat,60100103,Trans-Resveratrol,Stilbenes,228,None,0.59,NA,NA,24
+230,81,human,90180103,Tyrosol,Tyrosols,138,?-glucuronidase,21,11,NA,NA
+232,81,human,90180203,Hydroxytyrosol,Tyrosols,154,?-glucuronidase,29,27,NA,NA
+238,82,human,90180103,Tyrosol,Tyrosols,138,?-glucuronidase,28,21,NA,NA
+240,82,human,90180203,Hydroxytyrosol,Tyrosols,154,?-glucuronidase,64,36,NA,NA
+242,83,human,90180103,Tyrosol,Tyrosols,138,?-glucuronidase,21,6,NA,NA
+244,83,human,90180203,Hydroxytyrosol,Tyrosols,154,?-glucuronidase,35,19,NA,NA
+246,84,human,90180103,Tyrosol,Tyrosols,138,?-glucuronidase,24,14,NA,NA
+248,84,human,90180203,Hydroxytyrosol,Tyrosols,154,?-glucuronidase,40,21,NA,NA
+263,92,rat,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.4,0.04,SEM,24
+264,92,rat,10101003,Cyanidin 3-O-rutinoside,Anthocyanins,595,None,0.54,0.08,SEM,24
+267,92,rat,10101103,Cyanidin 3-O-sophoroside,Anthocyanins,611,None,1.17,0.16,SEM,24
+270,92,rat,10102603,Pelargonidin 3-O-glucosyl-rutinoside,Anthocyanins,741,None,1.25,0.22,SEM,24
+271,92,rat,10106503,Cyanidin 3-O-xylosyl-rutinoside,Anthocyanins,727,None,0.36,0.14,SEM,24
+274,92,rat,10102503,Pelargonidin 3-O-sophoroside,Anthocyanins,579,None,0.74,0.7,SEM,24
+296,97,human,30100803,Ellagic acid,Hydroxybenzoic acids,302,None,0.05,NA,SEM,7
+298,97,human,10101103,Cyanidin 3-O-sophoroside,Anthocyanins,611,None,0.04,NA,SEM,7
+299,97,human,10102403,Cyanidin 3-O-glucosyl-rutinoside,Anthocyanins,757,None,0.06,NA,SEM,7
+300,97,human,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.03,NA,SEM,7
+340,111,human,30100303,Gallic acid,Hydroxybenzoic acids,170,None,4.5,NA,NA,24
+703,136,human,10600103,Naringenin,Flavanones,272,?-glucuronidase,4.84,NA,NA,38
+746,140,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,7,3,NA,NA
+747,141,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,47,17,NA,NA
+766,144,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,4.53,3.44,NA,48
+767,145,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,4.63,3.05,NA,48
+768,144,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,12.5,10.6,NA,48
+769,145,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,10.2,6.8,NA,48
+780,146,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,3.9,3.6,NA,48
+784,146,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,14.5,11.9,NA,48
+797,151,human,10600903,Naringin,Flavanones,581,None,0.02,NA,NA,24
+798,151,human,10600103,Naringenin,Flavanones,272,?-glucuronidase,0.38,NA,NA,24
+799,152,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,22.6,11.5,SD,48
+801,152,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,14.2,9.1,SD,48
+803,152,human,10800203,Quercetin,Flavonols,302,?-glucuronidase and sulfatase,1.5,1,SD,48
+836,162,human,10603703,Naringenin 7-O-glucuronide,Flavanones,448,None,8.5,2.9,SEM,NA
+837,163,human,10603703,Naringenin 7-O-glucuronide,Flavanones,448,None,6.6,2.7,SEM,NA
+840,162,human,10603503,Naringenin 4'-O-glucuronide,Flavanones,448,None,8.3,3.3,SEM,NA
+841,163,human,10603503,Naringenin 4'-O-glucuronide,Flavanones,448,None,8.6,2.9,SEM,NA
+844,162,human,10603503,Naringenin 4'-O-glucuronide,Flavanones,448,None,0.9,0.3,SEM,NA
+845,163,human,10603503,Naringenin 4'-O-glucuronide,Flavanones,448,None,0.7,0.3,SEM,NA
+849,164,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,4.06,1.77,SD,NA
+850,165,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,14.4,6.75,SD,NA
+851,166,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,8.9,3.83,SD,NA
+880,171,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,2.6,0.5,SD,NA
+882,171,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,5.4,1.2,SD,NA
+884,172,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,0.7,0.2,SD,NA
+886,172,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,1.7,0.4,SD,NA
+888,173,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,0.5,0.2,SD,NA
+890,173,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,4.7,2.2,SD,NA
+892,174,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,1,0.5,SD,NA
+894,174,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,4.6,1,SD,NA
+896,175,human,10600103,Naringenin,Flavanones,272,?-glucuronidase and sulfatase,5.4,1.5,SD,NA
+898,175,human,10600303,Hesperetin,Flavanones,302,?-glucuronidase and sulfatase,8.9,2.9,SD,NA
+941,191,human,10800203,Quercetin,Flavonols,302,None,1.18,NA,NA,8
+942,191,human,10800203,Quercetin,Flavonols,302,?-glucuronidase and sulfatase,0.312,NA,NA,8
+992,206,rat,30200803,Ferulic acid,Hydroxycinnamic acids,194,?-glucuronidase and sulfatase,1.7,0.45,SD,NA
+995,206,rat,30201103,Rosmarinic acid,Hydroxycinnamic acids,360,?-glucuronidase and sulfatase,0.44,0.21,SD,18
+997,206,rat,30201303,m-Coumaric acid,Hydroxycinnamic acids,164,?-glucuronidase and sulfatase,0.67,0.29,SD,18
+999,206,rat,30200503,Caffeic acid,Hydroxycinnamic acids,180,?-glucuronidase and sulfatase,1.06,0.35,SD,18
+1004,208,human,30201103,Rosmarinic acid,Hydroxycinnamic acids,360,?-glucuronidase and sulfatase,1.5,0.35,NA,48
+1007,208,human,30219603,3-O-Methylrosmarinic acid,Hydroxycinnamic acids,374,?-glucuronidase and sulfatase,2.86,1.05,NA,48
+1010,208,human,30200803,Ferulic acid,Hydroxycinnamic acids,194,?-glucuronidase and sulfatase,2.86,1.05,NA,48
+1015,208,human,30200503,Caffeic acid,Hydroxycinnamic acids,180,?-glucuronidase and sulfatase,0.96,0.51,NA,48
+1028,215,rat,30203303,5-Caffeoylquinic acid,Hydroxycinnamic acids,354,?-glucuronidase,0.86,0.12,SEM,NA
+1039,215,rat,30201303,m-Coumaric acid,Hydroxycinnamic acids,164,?-glucuronidase,1.6,0.5,SEM,NA
+1040,216,rat,30201303,m-Coumaric acid,Hydroxycinnamic acids,164,?-glucuronidase,1.1,0.3,NA,NA
+1042,215,rat,30112903,Hippuric acid,Hydroxybenzoic acids,179,?-glucuronidase,36.5,3.9,SEM,NA
+1043,216,rat,30112903,Hippuric acid,Hydroxybenzoic acids,179,?-glucuronidase,22.9,3.6,SEM,NA
+1044,217,rat,30112903,Hippuric acid,Hydroxybenzoic acids,179,?-glucuronidase,55.3,4.2,SEM,NA
+1050,215,rat,30506603,3-Hydroxyphenylpropionic acid,Hydroxyphenylpropanoic acids,166,?-glucuronidase,36.5,3.9,SEM,NA
+1126,231,rat,30200803,Ferulic acid,Hydroxycinnamic acids,194,?-glucuronidase and sulfatase,43.4,4.6,NA,NA
+1284,242,rat,10500203,(-)-Epicatechin,Flavanols,290,None,0.025,0.006,SEM,NA
+1286,242,rat,10511203,3'-O-Methylepicatechin,Flavanols,304,None,0.027,0.008,SEM,NA
+1288,242,rat,10503403,Procyanidin dimer B2,Flavanols,578,None,0.34,0.175,SEM,NA
+1291,243,human,30100303,Gallic acid,Hydroxybenzoic acids,170,None,5.8,2.6,NA,NA
+1466,261,human,10500403,(-)-Epigallocatechin,Flavanols,306,?-glucuronidase and sulfatase,14,NA,NA,NA
+1468,261,human,10511903,4'-O-Methylepigallocatechin,Flavanols,320,?-glucuronidase and sulfatase,52,NA,NA,NA
+1470,262,human,10500603,(-)-Epigallocatechin 3-O-gallate,Flavanols,458,?-glucuronidase and sulfatase,26.7,16,SD,24
+1526,273,human,10501203,Theaflavin,Flavanols,564,?-glucuronidase and sulfatase,0.0006,NA,NA,24
+1660,289,rat,10503303,Procyanidin dimer B1,Flavanols,578,None,0.5,0.3,NA,4
+1661,289,rat,10503403,Procyanidin dimer B2,Flavanols,578,None,0.3,0.2,NA,4
+1662,289,rat,10503503,Procyanidin dimer B3,Flavanols,578,None,1,0.1,NA,4
+1663,289,rat,10503603,Procyanidin dimer B4,Flavanols,578,None,0.4,0.4,NA,4
+1664,289,rat,10505503,Procyanidin trimer C2,Flavanols,866,None,4.3,0.1,NA,4
+1848,301,human,10101203,Pelargonidin 3-O-glucoside,Anthocyanins,433,None,7.3,1,SEM,NA
+1849,302,human,10101203,Pelargonidin 3-O-glucoside,Anthocyanins,433,None,4.9,0.8,SEM,NA
+1850,303,human,10101203,Pelargonidin 3-O-glucoside,Anthocyanins,433,None,3.6,0.6,SEM,NA
+1871,308,human,10101203,Pelargonidin 3-O-glucoside,Anthocyanins,433,None,1.8,0.29,NA,NA
+1878,310,rat,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.057,0.011,NA,NA
+1879,310,rat,10101603,Cyanidin 3-O-(6''-malonyl-glucoside),Anthocyanins,535,None,0.045,0.008,NA,NA
+1918,304,human,10108203,"Cyanidin 3,5-O-diglucoside",Anthocyanins,611,None,0.179,NA,NA,NA
+1919,305,human,10108203,"Cyanidin 3,5-O-diglucoside",Anthocyanins,611,None,0.119,NA,NA,NA
+1920,306,human,10108203,"Cyanidin 3,5-O-diglucoside",Anthocyanins,611,None,0.104,NA,NA,NA
+1921,304,human,10114103,Cyanidin 3-O-diglucoside-5-O-glucoside,Anthocyanins,773,None,0.185,NA,NA,NA
+1922,305,human,10114103,Cyanidin 3-O-diglucoside-5-O-glucoside,Anthocyanins,773,None,0.11,NA,NA,NA
+1923,306,human,10114103,Cyanidin 3-O-diglucoside-5-O-glucoside,Anthocyanins,773,None,0.096,NA,NA,NA
+1924,304,human,10114203,Peonidin 3-O-diglucoside-5-O-glucoside,Anthocyanins,787,None,0.655,NA,NA,NA
+1925,305,human,10114203,Peonidin 3-O-diglucoside-5-O-glucoside,Anthocyanins,787,None,0.382,NA,NA,NA
+1926,306,human,10114203,Peonidin 3-O-diglucoside-5-O-glucoside,Anthocyanins,787,None,0.364,NA,NA,NA
+1965,329,rat,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.124,0.012,SEM,24
+1967,329,rat,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.135,0.019,SEM,24
+1977,332,human,10101803,Peonidin 3-O-glucoside,Anthocyanins,463,None,0.006,NA,NA,NA
+1979,332,human,10103903,Malvidin 3-O-glucoside,Anthocyanins,493,None,0.06,NA,SD,NA
+1980,332,human,10103103,Delphinidin 3-O-glucoside,Anthocyanins,465,None,0.06,NA,SD,NA
+1982,332,human,10103603,Petunidin 3-O-glucoside,Anthocyanins,479,None,0.03,NA,SD,NA
+2030,343,human,10103003,Delphinidin 3-O-galactoside,Anthocyanins,465,None,0.007,NA,NA,7
+2031,342,human,10103103,Delphinidin 3-O-glucoside,Anthocyanins,465,None,0.041,NA,NA,7
+2032,343,human,10103103,Delphinidin 3-O-glucoside,Anthocyanins,465,None,0.03,NA,NA,7
+2033,343,human,10103203,Delphinidin 3-O-arabinoside,Anthocyanins,435,None,0.004,NA,NA,7
+2034,343,human,10105703,Malvidin 3-O-galactoside,Anthocyanins,493,None,0.009,NA,NA,7
+2035,343,human,10103903,Malvidin 3-O-glucoside,Anthocyanins,493,None,0.006,NA,NA,7
+2036,343,human,10104003,Malvidin 3-O-arabinoside,Anthocyanins,463,None,0.01,NA,NA,7
+2037,343,human,10103403,Petunidin 3-O-galactoside,Anthocyanins,479,None,0.011,NA,NA,7
+2038,343,human,10103603,Petunidin 3-O-glucoside,Anthocyanins,479,None,0.004,NA,NA,7
+2039,343,human,10103803,Petunidin 3-O-arabinoside,Anthocyanins,449,None,0.012,NA,NA,7
+2040,341,human,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.006,NA,NA,7
+2041,342,human,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.04,NA,NA,7
+2042,343,human,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.007,NA,NA,7
+2043,343,human,10103503,Cyanidin 3-O-arabinoside,Anthocyanins,419,None,0.003,NA,NA,7
+2044,342,human,10101003,Cyanidin 3-O-rutinoside,Anthocyanins,595,None,0.007,NA,NA,7
+2045,343,human,10101003,Cyanidin 3-O-rutinoside,Anthocyanins,595,None,0.056,NA,NA,7
+2046,342,human,10105203,Delphinidin 3-O-rutinoside,Anthocyanins,611,None,0.067,NA,NA,7
+2047,341,human,10102403,Cyanidin 3-O-glucosyl-rutinoside,Anthocyanins,757,None,0.018,NA,NA,7
+2048,341,human,10101103,Cyanidin 3-O-sophoroside,Anthocyanins,611,None,0.012,NA,NA,7
+2095,355,pig,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.0268,0.0084,SD,24
+2097,355,pig,10101003,Cyanidin 3-O-rutinoside,Anthocyanins,595,None,0.0771,0.0233,SD,24
+2099,355,pig,10101203,Pelargonidin 3-O-glucoside,Anthocyanins,433,None,0.0508,0.0099,SD,24
+2100,355,pig,10101803,Peonidin 3-O-glucoside,Anthocyanins,463,None,0.0139,0.006,SEM,24
+2101,355,pig,10116803,Isopeonidin 3-O-glucoside,Anthocyanins,463,None,0.0047,0.0027,SEM,24
+2102,355,pig,10101903,Peonidin 3-O-rutinoside,Anthocyanins,609,None,0.0017,0.0009,SEM,24
+2103,355,pig,10116903,Isopeonidin 3-O-rutinoside,Anthocyanins,609,None,0.0051,0.0022,SEM,24
+2104,356,pig,10100803,Cyanidin 3-O-galactoside,Anthocyanins,449,None,0.0596,0.0102,SEM,NA
+2105,356,pig,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.0369,0.0073,SEM,NA
+2106,357,pig,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.0227,0.0075,SEM,NA
+2107,358,pig,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,0.0478,0.0046,SEM,NA
+2109,358,pig,10105303,Cyanidin 3-O-sambubioside,Anthocyanins,581,None,0.1547,0.0233,SEM,NA
+2110,356,pig,10105603,Cyanidin 3-O-xyloside,Anthocyanins,419,None,0.0376,0.0083,SEM,NA
+2111,356,pig,10103503,Cyanidin 3-O-arabinoside,Anthocyanins,419,None,0.0302,0.0055,SEM,NA
+2112,357,pig,10101003,Cyanidin 3-O-rutinoside,Anthocyanins,595,None,0.0891,0.0228,SEM,NA
+2113,357,pig,10103103,Delphinidin 3-O-glucoside,Anthocyanins,465,None,0.0221,0.0071,SEM,NA
+2114,358,pig,10108003,Cyanidin 3-O-sambubioside 5-O-glucoside,Anthocyanins,743,None,0.2104,0.036,SEM,NA
+2115,357,pig,10105203,Delphinidin 3-O-rutinoside,Anthocyanins,611,None,0.0708,0.0213,SEM,NA
+2116,357,pig,10116903,Isopeonidin 3-O-rutinoside,Anthocyanins,609,None,0.0071,0.0022,SEM,NA
+2117,357,pig,10101903,Peonidin 3-O-rutinoside,Anthocyanins,609,None,0.008,0.0021,SEM,NA
+2118,356,pig,10103703,Peonidin 3-O-galactoside,Anthocyanins,463,None,0.0238,0.004,SEM,NA
+2119,356,pig,10116703,Isopeonidin 3-O-galactoside,Anthocyanins,463,None,0.007,0.0011,SEM,NA
+2120,356,pig,10116603,Isopeonidin 3-O-arabinoside,Anthocyanins,433,None,0.0047,0.0009,SEM,NA
+2121,356,pig,10105803,Peonidin 3-O-arabinoside,Anthocyanins,433,None,0.0175,0.0032,SEM,NA
+2122,356,pig,10117103,Isopeonidin 3-O-xyloside,Anthocyanins,433,None,0.0078,0.0014,SEM,NA
+2123,356,pig,10115703,Peonidin 3-O-xyloside,Anthocyanins,433,None,0.0143,0.0032,SEM,NA
+2125,358,pig,10117003,Isopeonidin 3-O-sambubioside,Anthocyanins,595,None,0.0096,0.0017,SEM,NA
+2126,358,pig,10115503,Peonidin 3-O-sambubioside,Anthocyanins,595,None,0.0231,0.0035,SEM,NA
+2127,357,pig,10116803,Isopeonidin 3-O-glucoside,Anthocyanins,463,None,0.005,0.001,SEM,NA
+2128,358,pig,10116803,Isopeonidin 3-O-glucoside,Anthocyanins,463,None,0.0056,0.008,SEM,NA
+2129,357,pig,10101803,Peonidin 3-O-glucoside,Anthocyanins,463,None,0.0033,0.008,SEM,NA
+2130,358,pig,10101803,Peonidin 3-O-glucoside,Anthocyanins,463,None,0.02,0.0019,SEM,NA
+2154,372,human,10100803,Cyanidin 3-O-galactoside,Anthocyanins,449,None,3.7,0.6,SEM,NA
+2155,372,human,10100903,Cyanidin 3-O-glucoside,Anthocyanins,449,None,1.4,0.7,SEM,NA
+2156,372,human,10103503,Cyanidin 3-O-arabinoside,Anthocyanins,419,None,3.6,0.5,SEM,NA
+2157,372,human,10103703,Peonidin 3-O-galactoside,Anthocyanins,463,None,11,1.6,SEM,NA
+2158,372,human,10101803,Peonidin 3-O-glucoside,Anthocyanins,463,None,11.3,2.6,SEM,NA
+2159,372,human,10105803,Peonidin 3-O-arabinoside,Anthocyanins,433,None,2,0.3,SEM,NA
+2552,893,human,10900103,Daidzein,Isoflavonoids,254,?-glucuronidase and sulfatase,13,NA,NA,NA
+2553,893,human,10900303,Genistein,Isoflavonoids,270,?-glucuronidase and sulfatase,6,NA,NA,NA
+2554,893,human,10905703,Equol,Isoflavonoids,242,?-glucuronidase and sulfatase,24,NA,NA,NA
+2612,903,human,10900103,Daidzein,Isoflavonoids,254,?-glucuronidase and sulfatase,11.6,2.3,SD,NA
+2613,904,human,10900103,Daidzein,Isoflavonoids,254,?-glucuronidase and sulfatase,38.9,5.4,SD,NA
+2640,905,human,10905703,Equol,Isoflavonoids,242,?-glucuronidase and sulfatase,81,NA,SD,NA
+2641,906,human,10905703,Equol,Isoflavonoids,242,?-glucuronidase and sulfatase,82.2,23.9,SD,NA
+2645,908,human,10900103,Daidzein,Isoflavonoids,254,?-glucuronidase and sulfatase,35.8,NA,SD,72
+2647,908,human,10900303,Genistein,Isoflavonoids,270,?-glucuronidase and sulfatase,17.6,NA,SD,72
+2649,908,human,10905703,Equol,Isoflavonoids,242,?-glucuronidase and sulfatase,7,NA,SD,72
+2651,908,human,10907003,O-Desmethylangolensin,Isoflavonoids,258,?-glucuronidase and sulfatase,4,NA,SD,72
+2728,921,rat,70104003,Sesaminol 2-O-triglucoside,Lignans,777,sulfatase,0.1,NA,SD,24
+2730,921,rat,70101603,Sesaminol,Lignans,370,sulfatase,0.002,NA,SD,24
+2812,933,rat,70103803,Enterodiol,Lignans,302,?-glucuronidase and sulfatase,60,NA,NA,48
+2813,934,rat,70103803,Enterodiol,Lignans,302,?-glucuronidase and sulfatase,50,NA,NA,48
+2814,933,rat,70103903,Enterolactone,Lignans,298,?-glucuronidase and sulfatase,6,NA,NA,48
+2815,934,rat,70103903,Enterolactone,Lignans,298,?-glucuronidase and sulfatase,9.5,NA,NA,48
+2816,933,rat,70100103,Secoisolariciresinol,Lignans,362,?-glucuronidase and sulfatase,14,NA,NA,48
+2817,934,rat,70100103,Secoisolariciresinol,Lignans,362,?-glucuronidase and sulfatase,16,NA,NA,48
+2826,935,rat,70103903,Enterolactone,Lignans,298,?-glucuronidase and sulfatase,76,2.8,NA,24
+2827,936,rat,70103903,Enterolactone,Lignans,298,?-glucuronidase and sulfatase,59,8.8,NA,24
+2828,937,rat,70103903,Enterolactone,Lignans,298,?-glucuronidase and sulfatase,58,7.4,NA,24
+2829,938,rat,70103903,Enterolactone,Lignans,298,?-glucuronidase and sulfatase,17,4.7,NA,24
