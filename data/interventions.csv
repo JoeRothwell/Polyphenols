@@ -1,0 +1,425 @@
+inter,cipub,ciali,Dose.type,dose.desc,dose.unit,dose.quantity,multiple.dose,biofluids,plasma.collect,urine.collect,Species,Species2,gavage,animal.type,study.group,no.males,no.females,study.type,time.unit,duration,duration.d,duration.cat,mdose.duration,control.dose,washout,washout.duration,taken.with,olive.oil,Subclass.studied,pp.interest.2,other.info,date.extracted
+338,2649,2422,Food,boysenberry,mg,6,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,4,4,0,NRCT,minutes,60,0.041666667,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+339,2649,803,Food,black raspberry,mg,12.07999992,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,4,4,0,NRCT,minutes,60,0.041666667,Less than 12 h,NA,FALSE,TRUE,1.5,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+340,2649,797,Food,blueberry,mg,8.5,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,4,4,0,NRCT,minutes,60,0.041666667,Less than 12 h,NA,FALSE,TRUE,2.5,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+278,2611,2313,Pure compound,(-)-epicatechin,mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,13,NA,NA,NCT,hours,1,0.041666667,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,NA,30/03/2011
+279,2611,2313,Pure compound,(-)-epicatechin,mg/kg bw,500,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,13,NA,NA,NCT,hours,1,0.041666667,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,NA,30/03/2011
+181,2530,2339,Pure compound,[2-14C]quercetin 4'-glucoside,mg/kg bw,3.25999999,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,12,NA,NA,NCT,hours,1,0.041666667,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,22/02/2011
+118,2514,2310,Experimental food,green tea extract,g,0.300000012,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,4,5,NCT,hours,1,0.041666667,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,26/01/2011
+865,2727,2440,Pure compound,[14C]genistein,mg/kg bw,4,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,5,5,NCT,hours,1,0.041666667,Less than 12 h,NA,FALSE,FALSE,0.5,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+179,2526,1338,Food,fried onions,g,200,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,4,2,2,NCT,hours,1.5,0.0625,Less than 12 h,NA,FALSE,TRUE,2,TRUE,fried in 150 g butter,Flavonols,NA,NA,22/02/2011
+185,2536,2351,Food,onion paste,g,350,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,4,NA,NA,NCT,hours,1.5,0.0625,Less than 12 h,NA,FALSE,TRUE,0.5,TRUE,roasted with salad oil,Flavonols,NA,NA,23/02/2011
+319,2631,2413,Experimental food,chokeberry extract in water,g,20,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,2,0,NCT,hours,2,0.083333333,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+336,2656,2420,Pure compound,cyanidin 3-O-glucoside,mg/kg bw,500,FALSE,plasma and urine,TRUE,TRUE,Mouse,Mouse,FALSE,NA,21,NA,NA,NRCT,minutes,120,0.083333333,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+259,2608,2395,Experimental food,green tea extract in capsules,mg,200,FALSE,plasma and urine,TRUE,TRUE,Dog,Other,FALSE,NA,2,0,2,NRCT,hours,2,0.083333333,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,NA,28/03/2011
+288,2622,2399,Food,procyanidin-rich extract,g/kg bw,1,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,3,3,0,NCT,hours,2,0.083333333,Less than 12 h,2,FALSE,TRUE,0.670000017,FALSE,NA,Flavanols,NA,NA,30/03/2011
+201,2560,2346,Pure compound,dihydroquercetin,mg/kg bw,10,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,18,18,0,NCT,hours,2,0.083333333,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+202,2560,2346,Pure compound,dihydroquercetin,mg/kg bw,50,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,18,18,0,NCT,hours,2,0.083333333,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+203,2560,2346,Pure compound,dihydroquercetin,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,18,18,0,NCT,hours,2,0.083333333,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+75,2466,2009,Food,virgin olive oil,mL,30,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,NA,NA,NCT,hours,2,0.083333333,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Tyrosols,NA,NA,12/01/2011
+312,2627,2410,Experimental food,anthocyanin concentrate,mL/kg bw,10,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,36,36,0,NCT,hours,3,0.125,Less than 12 h,NA,FALSE,TRUE,0.670000017,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+123,2513,717,Food,black tea,cups/hour,1,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,2,NA,NA,NCT,hours,3,0.125,Less than 12 h,3,FALSE,TRUE,14,FALSE,NA,HBA,NA,"Tea taken at 1, 2 and 3h",26/01/2011
+220,2585,2377,Experimental food,green coffee bean extract drink,mL,250,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,5,0,NCT,hours,3,0.125,Less than 12 h,NA,FALSE,TRUE,3,FALSE,NA,HCA,NA,NA,17/03/2011
+311,2628,2409,Experimental food,concentrated x2 blood orange juice,mL,500,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,7,2,5,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+333,2657,2420,Pure compound,cyanidin 3-O-glucoside,mg/kg bw,100,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,4,4,0,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,7,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+356,2641,810,Experimental food,freeze-dried chokeberry powder,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Pig,Other,FALSE,NA,9,NA,NA,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,14,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+357,2641,776,Experimental food,freeze-dried blackcurrant powder,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Pig,Other,FALSE,NA,9,NA,NA,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,14,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+358,2641,847,Experimental food,freeze-dried elderberry powder,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Pig,Other,FALSE,NA,9,NA,NA,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,14,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+853,2667,2405,Experimental food,elderberry extract,g,12,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,4,0,4,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Anthocyanins,NA,NA,05/05/2011
+317,2626,2411,Pure compound,delphinidin 3-O-glucoside in citric acid,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,4,4,0,NCT,minutes,240,0.166666667,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+351,2661,2420,Pure compound,cyanidin 3-O-glucoside,mmol/kg bw,0.899999976,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,15,15,0,NCT,minutes,240,0.166666667,Less than 12 h,NA,FALSE,TRUE,7,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+182,2533,1338,Food,cooked onions,g,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,1,5,NCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Flavonols,NA,NA,22/02/2011
+107,2496,860,Experimental food,red wine equivalents,mL/kg bw,5,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,12,NA,NA,NRCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,NA,FALSE,NA,HBA,NA,NA,25/01/2011
+108,2496,2316,Experimental food,dealcoholized red wine equivalents,mL/kg bw,5,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,12,NA,NA,NRCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,NA,FALSE,NA,HBA,NA,NA,25/01/2011
+109,2496,2315,Experimental food,phenol-stripped red wine equivalents,mL/kg bw,5,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,12,NA,NA,NRCT,hours,4,0.166666667,Less than 12 h,NA,FALSE,TRUE,NA,FALSE,NA,HBA,NA,NA,25/01/2011
+110,2496,2317,Experimental food,water,NA,NA,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,NA,NA,NRCT,hours,4,0.166666667,Less than 12 h,NA,TRUE,TRUE,NA,FALSE,NA,HBA,NA,Don't know volume of water consumed,25/01/2011
+888,2706,2460,Experimental food,Dalbergia odorifera extract,g/kg bw,1.5,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,5,5,0,NCT,minutes,240,0.166666667,Less than 12 h,NA,FALSE,TRUE,3,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+230,729,2383,Experimental food,Ocean Spray cranberry juice cocktail,mL,1800,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,1,NA,NA,NCT,hours,4.5,0.1875,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,17/03/2011
+126,2515,2313,Pure compound,epicatechin,mg,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,12,0,NRCT,hours,5,0.208333333,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,27/01/2011
+127,2515,2314,Pure compound,epigallocatechin gallate,mg,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,12,0,NRCT,hours,5,0.208333333,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,27/01/2011
+128,2515,2317,Experimental food,water,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,12,0,NRCT,hours,5,0.208333333,Less than 12 h,NA,TRUE,FALSE,NA,FALSE,NA,Flavanols,NA,Volume of water not stated,27/01/2011
+232,2597,1558,Food,cocoa powder,g/kg bw,1,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,5,0.208333333,Less than 12 h,NA,FALSE,FALSE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+125,2515,2277,Pure compound,quercetin,mg,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,12,0,NRCT,hours,5,0.208333333,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Flavonols,NA,NA,27/01/2011
+300,2638,2405,Experimental food,elderberry extract in water,g,12,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,0,4,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+352,2642,688,Food,blood orange juice,L,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+373,2663,919,Food,blackcurrant juice,mL,330,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,05/05/2011
+369,2672,1558,Food,cocoa in 300 mL water,g/kg bw,0.375,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,3,2,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,1,FALSE,NA,Flavanols,NA,NA,05/05/2011
+177,2525,1062,Food,grapefruit juice,mL,900,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,22/02/2011
+178,2525,1062,Food,grapefruit juice,mL,900,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,Different brand of GJ from 177,22/02/2011
+198,2558,2345,Experimental food,(-)-catechin in white wine,mg,25,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+199,2558,2270,Experimental food,trans-resveratrol in white wine,mg,25,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+200,2558,2277,Experimental food,quercetin in white wine,mg,25,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+205,2561,2347,Experimental food,ginkgo biloba,tablet,1,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,NA,NA,NCT,hours,6,0.25,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,16/03/2011
+320,2636,2412,Experimental food,Mirtoselect bilberry extract,g,4.5,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+341,2649,2422,Food,boysenberry,mg,344.5,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,5,0,NCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+342,2649,776,Food,blackcurrant,mg,188.5,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,5,0,NCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+343,2649,797,Food,blueberry,mg,439.1000061,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,5,0,NCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+353,2651,2426,Food,blackcurrant powder,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,35,0,NA,NRCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,TRUE,7,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+354,2651,2426,Experimental food,blackcurrant powder with 6.7% oatmeal,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,35,0,NA,NRCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,TRUE,7,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+879,2699,2455,Food,kinako (baked soybean powder),g,50,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,1,1,NCT,hours,7,0.291666667,Less than 12 h,NA,FALSE,TRUE,7,TRUE,Cow's milk (300 mL),Isoflavones,NA,NA,21/06/2011
+318,2633,2412,Experimental food,Bilberon 25 bilberry extract,mg/kg bw,400,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,4,4,0,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+337,2652,2421,Pure compound,delphinidin 3-O-rutinoside,µmol/kg bw,152,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,4,4,0,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,7,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+244,2599,860,Food,red wine,mL,120,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,5,4,RCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,28/03/2011
+245,2599,860,Experimental food,dealcoholized red wine,mL,120,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,5,4,RCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,28/03/2011
+277,2611,2313,Pure compound,(-)-epicatechin,g,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,1,3,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,NA,30/03/2011
+361,2669,2316,Experimental food,dealcoholized red wine,mL,120,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,5,4,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,3,FALSE,NA,Flavanols,NA,NA,05/05/2011
+362,2669,860,Food,red wine,mL,120,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,5,4,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,3,FALSE,NA,Flavanols,NA,NA,05/05/2011
+367,2671,688,Food,blood orange juice,mL,150,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,7,0,7,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Flavanones,NA,NA,05/05/2011
+368,2671,688,Food,blood orange juice,mL,300,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,7,0,7,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Flavanones,NA,NA,05/05/2011
+222,2587,1603,Food,instant coffee powder in water,g,4,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,8,0.333333333,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,HCA,NA,NA,17/03/2011
+307,2635,2407,Experimental food,boysenberry extract in water,g,60,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,hours,9,0.375,Less than 12 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+149,2528,2324,Pure compound,naringin dissolved in 50% PEG400,mg/kg bw,746.7000122,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,12,0.5,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,08/02/2011
+851,2666,2430,Food,shallot flesh,mg/kg bw,1.399999976,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,5,4,NCT,hours,12,0.5,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Flavonols,NA,NA,05/05/2011
+852,2666,2430,Food,dry shallot skin,mg/kg bw,1.399999976,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,9,5,4,NCT,hours,12,0.5,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Flavonols,NA,NA,05/05/2011
+51,2492,2279,Pure compound,14C-resveratrol,mg,25,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,hours,12,0.5,12-24 h,NA,FALSE,TRUE,4,TRUE,50 mg ascorbic acid,Stilbenes,NA,NA,05/01/2011
+52,2492,2266,Pure compound,resveratrol,mg,100,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,NA,NA,NCT,hours,12,0.5,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,05/01/2011
+257,2605,2394,Food,green tea,g,1.200000048,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,5,0,NCT,hours,15,0.625,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Flavanols,NA,NA,28/03/2011
+345,2653,2423,Pure compound,pelargonidin,mg/kg bw,50,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,15,15,0,NRCT,hours,18,0.75,12-24 h,NA,FALSE,TRUE,0.166999996,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+135,2527,2323,Pure compound,naringenin,mg/kg bw,50,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,TRUE,NA,14,3,0,NRCT,hours,18,0.75,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Flavanones,NA,NA,07/02/2011
+206,2580,2367,Pure compound,rosmarinic acid in deoinized water,mg/kg bw,50,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,hours,18,0.75,12-24 h,NA,FALSE,TRUE,0.5,FALSE,NA,HCA,NA,NA,17/03/2011
+207,2580,2317,Experimental food,deionized water,mL/kg bw,10,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,Hours,18,0.75,12-24 h,NA,TRUE,TRUE,0.5,FALSE,NA,HCA,NA,Control intervention for 206,17/03/2011
+301,2637,768,Food,blended strawberries,g,100,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,6,6,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+302,2637,768,Food,blended strawberries,g,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,6,6,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+303,2637,768,Food,blended strawberries,g,400,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,6,6,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+304,2639,2241,Food,steamed red cabbage,g,100,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,4,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+305,2639,2241,Food,steamed red cabbage,g,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,4,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+306,2639,2241,Food,steamed red cabbage,g,300,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,4,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+308,2634,768,Food,strawberries,g,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,TRUE,"15 g sugar, 60 g bread and 10 g butter",Anthocyanins,NA,NA,15/04/2011
+309,2629,778,Food,blackberries,g,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,2,3,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,TRUE,"15 g sugar, 60 g bread and 10 g butter",Anthocyanins,NA,NA,15/04/2011
+313,2632,768,Food,fresh strawberries,g,100,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,3,7,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,two slices of white toast (72 g) with a fat-based spread (10 g),Anthocyanins,NA,NA,15/04/2011
+314,2632,768,Food,fresh strawberries,g,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,3,7,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,two slices of white toast (72 g) with a fat-based spread (10 g),Anthocyanins,NA,NA,15/04/2011
+315,2632,768,Food,fresh strawberries,g,300,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,3,7,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,two slices of white toast (72 g) with a fat-based spread (10 g),Anthocyanins,NA,NA,15/04/2011
+316,2632,768,Food,fresh strawberries,g,400,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,3,7,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,two slices of white toast (72 g) with a fat-based spread (10 g),Anthocyanins,NA,NA,15/04/2011
+321,2627,2414,Experimental food,purple sweet potato beverage,mL,125,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,5,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,17/04/2011
+331,2655,2418,Experimental food,blackberry extract,g/kg diet,20,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,hours,24,1,12-24 h,24,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+332,2660,2419,Experimental food,anthocyanin extract,g,12,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,7,5,2,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+334,2658,2413,Experimental food,encapsulated chokeberry extract,g,7.099999905,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,3,3,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+335,2659,782,Food,lingonberries,g,300,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,4,2,2,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1.25,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+344,2648,2405,Experimental food,elderberry extract,g,12,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,0,4,4,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+346,2647,768,Food,strawberries,g,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,8,6,2,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+347,2647,768,Food,strawberries with double cream,g,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,8,6,2,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+370,2673,2428,Experimental food,blackcurrant anthocyanin powder in saline,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,35,35,0,NCT,hours,24,1,12-24 h,NA,FALSE,FALSE,7,FALSE,NA,Anthocyanins,NA,NA,05/05/2011
+372,2662,2429,Food,cranberry juice,mL,200,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,11,9,2,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,NA,Anthocyanins,NA,NA,05/05/2011
+270,2609,2313,Pure compound,epicatechin,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,NA,NA,NRCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,These 3 interventions could be conbined into one,30/03/2011
+274,2615,2394,Experimental food,green tea solids in water,g,6,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,17,17,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,Stated dose single but spread throughout the day,30/03/2011
+275,2615,2397,Experimental food,black tea solids in water,g,6,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,17,17,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,Stated dose single but spread throughout the day,30/03/2011
+276,2615,2398,Pure compound,caffeine in capsules,mg,360,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,17,17,0,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,Stated dose single but spread throughout the day,30/03/2011
+233,2595,2345,Pure compound,catechin,µmol/kg bw,172,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+234,2595,2313,Pure compound,epicatechin,µmol/kg bw,172,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+235,2595,2387,Experimental food,mixture of catechin and epicatechin,µmol/kg bw,172,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+236,2594,2313,Pure compound,(-)-epicatechin,mg/kg bw,1,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+237,2594,2313,Pure compound,(-)-epicatechin,mg/kg bw,5,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+238,2594,2313,Pure compound,(-)-epicatechin,mg/kg bw,10,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+239,2594,1558,Food,cocoa powder,mg/kg bw,150,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+240,2594,1558,Food,cocoa powder,mg/kg bw,750,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+241,2594,1558,Food,cocoa powder,mg/kg bw,1500,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+242,2596,2388,Pure compound,procyanidin B2,mg/kg bw,50,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,water,Flavanols,NA,NA,28/03/2011
+243,2598,948,Food,ready-to-drink green tea,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,20,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,Only 5 subjects used for plasma,28/03/2011
+247,2601,2389,Experimental food,wine powder,g/100 g bw,0.25,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+248,2601,2389,Experimental food,wine powder,g/100 g bw,0.5,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+249,2601,2345,Pure compound,catechin,g/100 g bw,0.119999997,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,NA,NA,NRCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+260,2607,2395,Experimental food,green tea extract in capsules,mg,200,FALSE,plasma and urine,TRUE,TRUE,Dog,Other,FALSE,NA,10,0,10,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,NA,28/03/2011
+261,2616,2394,Experimental food,green tea solids in water,mg/kg bw,20,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,30/03/2011
+262,2625,2394,Experimental food,green tea solids in water,mg/kg bw,20,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,3,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,30/03/2011
+263,2625,2314,Pure compound,epigallocatechin gallate,mg/kg bw,2,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,3,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Flavanols,NA,NA,30/03/2011
+264,2625,2314,Pure compound,epigallocatechin gallate,mg,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,3,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+265,2625,2386,Pure compound,epigallocatechin,mg,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,3,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+266,2625,2313,Pure compound,epicatechin,mg,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,3,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+286,2623,2314,Pure compound,epigallocatechin gallate,mg/kg bw,200,FALSE,urine,FALSE,TRUE,Mouse,Mouse,FALSE,NA,4,4,0,NCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+287,2624,2394,Food,reconstituted green tea,g,3,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,3,3,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Flavanols,NA,Reconstituted in 300 ml water,30/03/2011
+289,2621,2307,Experimental food,grape seed extract,g/kg bw,1,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,24,24,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,0.670000017,FALSE,NA,Flavanols,NA,NA,30/03/2011
+292,2620,2401,Experimental food,almond skin extract capsules,capsules,10,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,NA,NA,RCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,30/03/2011
+293,2618,1558,Food,cocoa powder in water,g,40,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,21,12,9,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,In 250 ml water,30/03/2011
+296,2619,1558,Food,cocoa powder in whole milk,g,40,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,21,12,9,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,30/03/2011
+297,2601,2319,Experimental food,control diet,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,NA,NA,NRCT,hours,24,1,12-24 h,NA,TRUE,TRUE,NA,FALSE,NA,Flavanols,NA,NA,05/04/2011
+298,2604,2394,Experimental food,green tea powder in hot water,mg/kg bw,20,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,2,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Flavanols,NA,NA,09/04/2011
+848,2664,714,Food,green tea,mL,300,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,4,1,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,05/05/2011
+849,2664,2317,Experimental food,water,mL,300,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,4,1,NCT,hours,24,1,12-24 h,NA,TRUE,TRUE,2,FALSE,NA,Flavanols,NA,NA,05/05/2011
+850,2665,714,Food,Choladi green tea,mL,500,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,05/05/2011
+949,2619,1558,Food,cocoa powder in water,g,40,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,21,12,9,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,30/03/2011
+139,2521,2327,Experimental food,polyphenol-rich beverage,mL,350,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,6,4,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanones,NA,NA,07/02/2011
+140,2522,681,Food,orange juice,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,8,8,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Flavanones,NA,Dose quantity not stated,07/02/2011
+141,2522,2328,Experimental food,alpha-rhamnosidase treated orange juice,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,8,8,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Flavanones,NA,Dose quantity not stated,07/02/2011
+142,2522,2329,Experimental food,hesperidin-fortified orange juice,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,8,8,RCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,Dose quantity not stated,07/02/2011
+147,2524,1087,Food,fresh cherry tomatoes,g,500,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,2,3,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,TRUE,"70 g pasta, 25 g extra virgin olive oil and 50 g bread",Flavanones,NA,NA,08/02/2011
+148,2524,2330,Food,cooked cherry tomatoes,g,500,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,2,3,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,TRUE,"70 g pasta, 25 g extra virgin olive oil and 50 g bread",Flavanones,NA,NA,08/02/2011
+151,2534,2324,Pure compound,naringin powder,mg,500,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,09/02/2011
+157,2542,2333,Experimental food,capsules containing grapefruit extract,g,400,FALSE,plasma and urine,TRUE,TRUE,Dog,Other,FALSE,NA,10,NA,NA,NRCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,10/02/2011
+158,2543,2325,Pure compound,hesperidin,mg/kg bw,100,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,15,15,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,10/02/2011
+159,2543,2325,Pure compound,hesperidin,mg/kg bw,50,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,15,5,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,10/02/2011
+160,2545,2334,Pure compound,eriocitrin,µmol/kg bw,75,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,5,5,0,NRCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,TRUE,synthetic base diet,Flavanones,NA,NA,11/02/2011
+162,2551,2329,Experimental food,orange juice fortified with hesperidin,mL,250,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,8,4,4,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanones,NA,Possibly needs new CIALI,11/02/2011
+163,2551,2329,Experimental food,orange juice fortified with hesperidin with 150 mL natural yoghurt,mL,250,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,8,4,4,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,TRUE,150 mL natural yoghurt,Flavanones,NA,Possibly needs new CIALI,11/02/2011
+164,2553,688,Food,orange juice,mL/kg bw,5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,8,8,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Flavanones,NA,NA,11/02/2011
+165,2553,2349,Experimental food,orange juice treated with hesperidinase,mL/kg bw,5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,8,8,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Flavanones,NA,NA,11/02/2011
+166,2553,2329,Experimental food,orange juice fortified with hesperidin,mL/kg bw,5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,8,8,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Flavanones,NA,NA,11/02/2011
+167,2554,2329,Experimental food,orange juice fortified with hesperidin,mL,250,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,NA,NA,NRCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavanones,NA,NA,11/02/2011
+168,2554,2329,Experimental food,orange juice fortified with hesperidin with 150 mL natural yoghurt,mL,250,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,NA,NA,NRCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,TRUE,NA,Flavanones,NA,NA,11/02/2011
+169,2554,2317,Experimental food,water,NA,NA,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,NA,NA,NRCT,days,1,1,12-24 h,NA,TRUE,TRUE,NA,FALSE,NA,Flavanones,NA,NA,11/02/2011
+171,2559,687,Food,orange juice,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,5,5,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Flavanones,NA,"Need to check intervention duration, presume 24h",21/02/2011
+172,2559,687,Food,orange juice,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,5,5,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Flavanones,NA,A different brand of OJ from 171,21/02/2011
+173,2559,687,Experimental food,pulp-enriched orange juice,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,5,5,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Flavanones,NA,"Need to check intervention duration, presume 24h",21/02/2011
+174,2559,687,Experimental food,flavanone extract-enriched orange juice,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,5,5,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Flavanones,NA,"Need to check intervention duration, presume 24h",21/02/2011
+175,2559,687,Experimental food,flavanone extract diluted in water,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,5,5,RCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Flavanones,NA,"Need to check intervention duration, presume 24h",21/02/2011
+176,2562,2338,Experimental food,Rhizoma drynariae,g/kg bw,70,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,6,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,21/02/2011
+183,2535,2340,Experimental food,tomato juice enriched with rutin,mL,300,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,1,5,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Flavonols,NA,NA,22/02/2011
+194,2550,2342,Food,fried red onions,g,270,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,4,2,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,TRUE,fried in margarine,Flavonols,NA,NA,24/02/2011
+100,2499,2303,Experimental food,pomegranate extract,mg,0.800000012,FALSE,plasma,TRUE,FALSE,Mouse,Mouse,FALSE,NA,84,NA,NA,NRCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,24/01/2011
+101,2499,2303,Pure compound,urolithin A,mg,0.300000012,FALSE,plasma,TRUE,FALSE,Mouse,Mouse,FALSE,NA,84,NA,NA,NRCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,24/01/2011
+102,2460,2175,Food,pomegranate juice concentrate,mL,180,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,18,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,4,TRUE,either toast with butter or cereal and low fat milk,HBA,NA,NA,24/01/2011
+103,2462,922,Food,pomegranate juice,oz,8,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,5,11,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,4,FALSE,NA,HBA,NA,NA,24/01/2011
+104,2462,2305,Experimental food,pomegranate polyphenol liquid extract,tsp,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,5,11,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,4,FALSE,NA,HBA,NA,NA,24/01/2011
+105,2462,2303,Experimental food,encapsulated powder of pomegranate extract,mg,1000,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,16,5,11,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,4,FALSE,NA,HBA,NA,NA,24/01/2011
+111,2508,947,Food,ready-to-drink tea,mL,500,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,20,17,3,NRCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,25/01/2011
+116,2507,2308,Pure compound,ethyl gallate suspended in 0.5% Na carboxymethylcellulose,mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,6,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,26/01/2011
+117,2514,2309,Food,instant coffee,g,4,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,4,5,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,26/01/2011
+119,2514,1558,Food,cocoa powder,g,10,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,4,5,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,26/01/2011
+120,2514,2312,Experimental food,grape skin extract,g,18,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,4,5,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,26/01/2011
+121,2514,1062,Food,grapefruit juice,mL,430,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,4,5,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,26/01/2011
+122,2514,1064,Food,orange juice,g,550,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,4,5,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,26/01/2011
+129,2518,2318,Experimental food,shuangdan granules,g/100 g bw/day,12,TRUE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,9,9,0,NRCT,days,1,1,12-24 h,1,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,27/01/2011
+92,2450,805,Food,raspberry juice,mL,2.769999981,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,TRUE,NA,24,24,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,HBA,Anthocyanins,NA,21/01/2011
+99,2459,2302,Experimental food,pomegranate extract capsules,g,800,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,11,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,HBA,NA,NA,24/01/2011
+371,2579,2363,Experimental food,polyphenol-rich juice drink,mL,350,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,6,4,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,05/05/2011
+219,2584,1603,Food,instant coffee in hot water,g,4,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,1,NA,NA,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,400 mL hot water,HCA,NA,NA,17/03/2011
+223,2589,1603,Food,instant coffee,mL,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,11,8,3,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,HCA,NA,NA,17/03/2011
+856,2731,2435,Experimental food,ready-to-drink soy protein beverage,mL,342,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,3,0,3,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+861,2728,2435,Experimental food,ready-to-drink soy protein beverage,mL,342,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+862,2728,2439,Experimental food,soy food ingredient powder,g,101.5999985,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,7,TRUE,Orange juice (32 oz),Isoflavones,NA,NA,20/06/2011
+863,2728,2436,Experimental food,isolated soy protein,NA,NA,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,26,0,26,NCT,days,1,1,12-24 h,1,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+866,2724,2436,Food,soy protein,NA,NA,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,0,10,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+889,2695,2449,Experimental food,red clover dietary supplement capsules,capsules,2,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,7,4,3,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+890,2682,2450,Pure compound,biochanin A,mg/kg bw,5,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,3,3,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,TRUE,Olive oil,Isoflavones,NA,NA,21/06/2011
+891,2682,2450,Pure compound,biochanin A,mg/kg bw,50,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,3,3,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,TRUE,NA,Isoflavones,NA,NA,21/06/2011
+892,2682,2440,Pure compound,genistein,mg/kg bw,10,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,2,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+855,2730,2434,Pure compound,daidzein,mg/kg bw,100,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,4,4,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+883,2703,2208,Food,soy milk,mL,100,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,9,3,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+884,2703,2245,Food,fermented soy milk,mL,100,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,9,3,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+885,2703,2246,Experimental food,enzyme-treated soy milk,mL,100,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,12,9,3,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,1,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+903,2691,2434,Pure compound,daidzein capsule,capsule,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,7,7,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+904,2691,2448,Pure compound,daidzein-7-O-glucoside capsule,capsule,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,7,7,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+916,2690,2458,Pure compound,tectorigenin,mg/kg bw,80,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,24,FALSE,TRUE,1,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+924,2732,2465,Experimental food,Schisandra chinesis,mL/kg bw,7.5,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,6,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,3,FALSE,NA,Lignans,NA,NA,24/06/2011
+925,2736,2012,Food,raw ground flaxseed,g,5,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,0,9,NCT,hours,24,1,12-24 h,NA,FALSE,FALSE,4,TRUE,Apple sauce,Lignans,NA,NA,24/06/2011
+929,2737,2466,Experimental food,enterodiol in corn oil,mg,2,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,0,8,NRCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+930,2737,2472,Experimental food,enterolactone in corn oil,mg,2,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,0,8,NRCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+931,2737,2137,Experimental food,corn oil (control),mL,1,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,0,8,NRCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+933,2738,2468,Pure compound,3H-secoisolariciresinol diglycoside,kBq/g bw,3.700000048,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,12,0,12,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Lignans,NA,NA,24/06/2011
+935,2739,2469,Pure compound,matairesinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Lignans,NA,NA,24/06/2011
+936,2739,2470,Pure compound,7-hydroxymatairesinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Lignans,NA,NA,24/06/2011
+937,2739,2471,Pure compound,secoisolariciresinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Lignans,NA,NA,24/06/2011
+938,2739,2472,Pure compound,enterolactone,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Lignans,NA,NA,24/06/2011
+939,2739,2468,Pure compound,secoisolariciresinol diglycoside,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Lignans,NA,NA,24/06/2011
+940,2735,2469,Pure compound,matairesinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,7,7,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+941,2735,2470,Pure compound,7-hydroxymatairesinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,11,11,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+942,2735,2471,Pure compound,secoisolariciresinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,11,11,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+943,2735,2474,Pure compound,lariciresinol,mg/kg bw,25,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,11,11,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+32,2484,2266,Pure compound,resveratrol,g,0.5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Stilbenes,NA,NA,18/11/2010
+33,2484,2266,Pure compound,resveratrol,g,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Stilbenes,NA,NA,18/11/2010
+34,2484,2266,Pure compound,resveratrol,g,2.5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Stilbenes,NA,NA,18/11/2010
+35,2484,2266,Pure compound,resveratrol,g,5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Stilbenes,NA,NA,18/11/2010
+36,2485,2270,Pure compound,trans-resveratrol,g,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,4,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,18/11/2010
+38,2489,2270,Pure compound,trans-resveratrol,mg/kg,0.029999999,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,3,TRUE,dissolved in whisky,Stilbenes,NA,NA,04/01/2011
+39,2489,2270,Pure compound,trans-resveratrol,mg/kg,0.5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,2,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,TRUE,dissolved in whisky,Stilbenes,NA,NA,04/01/2011
+40,2489,2270,Pure compound,trans-resveratrol,mg/kg,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,2,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,dissolved in whisky,Stilbenes,NA,NA,04/01/2011
+41,2489,2276,Experimental food,grape juice preparation,mL,200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Stilbenes,NA,NA,04/01/2011
+42,2489,2276,Experimental food,grape juice preparation,mL,400,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Stilbenes,NA,NA,04/01/2011
+43,2489,2276,Experimental food,grape juice preparation,mL,600,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Stilbenes,NA,NA,04/01/2011
+44,2489,2276,Experimental food,grape juice preparation,mL,1200,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,14,FALSE,NA,Stilbenes,NA,NA,04/01/2011
+45,2489,2277,Pure compound,quercetin,mg/kg bw,0.5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,2,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,7,TRUE,5 mL of whisky in 50 mL water,Stilbenes,NA,NA,04/01/2011
+55,2483,2270,Pure compound,trans-resveratrol,mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Rabbit,Other,FALSE,NA,5,5,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,06/01/2011
+56,2483,2270,Pure compound,trans-resveratrol,mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,25,25,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,06/01/2011
+57,2483,2270,Pure compound,trans-resveratrol,mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Mouse,Mouse,FALSE,NA,25,25,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,06/01/2011
+68,2471,2283,Experimental food,oleuropein in soya oil and water,mg/kg bw,100,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,3,NA,NA,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,FALSE,NA,Tyrosols,NA,NA,11/01/2011
+73,2468,2009,Food,virgin olive oil,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,11,5,6,NCT,days,1,1,12-24 h,NA,FALSE,TRUE,4,FALSE,NA,Tyrosols,NA,NA,12/01/2011
+76,2465,2288,Experimental food,radiolabelled hydroxytyrosol in olive oil,NA,NA,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,days,1,1,12-24 h,NA,FALSE,FALSE,NA,TRUE,olive oil,Tyrosols,NA,Amount R-HT given?,13/01/2011
+77,2476,2289,Experimental food,olive oil sample A,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+78,2476,2290,Experimental food,olive oil sample B,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+79,2476,2291,Experimental food,olive oil sample C,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+80,2476,2292,Experimental food,olive oil sample D,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+81,2475,2289,Experimental food,olive oil sample A,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+82,2475,2290,Experimental food,olive oil sample B,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+83,2475,2291,Experimental food,olive oil sample C,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+84,2475,2292,Experimental food,olive oil sample D,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,28,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+85,2474,2293,Experimental food,olive mill waste water extract,mg/kg bw,1,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,9,9,0,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+86,2474,2293,Experimental food,olive mill waste water extract,mg/kg bw,5,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,9,9,0,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+87,2474,2293,Experimental food,olive mill waste water extract,mg/kg bw,10,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,9,9,0,NRCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+88,2464,2034,Food,extra virgin olive oil,mL,30,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,5,TRUE,50 g bread,Tyrosols,NA,Haven't entered total hydroxytyrosol,13/01/2011
+89,2464,2096,Experimental food,refined olive oil containing phenolic extract,mL,30,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,5,FALSE,NA,Tyrosols,NA,NA,13/01/2011
+90,2464,2295,Experimental food,synthetic hydroxytyrosol with 125 mL natural yoghurt,mg,20,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,TRUE,NA,TRUE,125 g low fat yoghurt,Tyrosols,NA,NA,13/01/2011
+91,2464,2034,Experimental food,extra virgin olive oil supplemented with 9.5 µg hydroxytyrosol,µL,500,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,6,0,NCT,hours,24,1,12-24 h,NA,FALSE,FALSE,NA,TRUE,500 µL extra virgin olive oil,Tyrosols,NA,NA,14/01/2011
+256,2604,2394,Experimental food,green tea powder in hot water,g,1.200000048,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,5,0,NCT,hours,47,1.958333333,2-7 days,NA,FALSE,TRUE,14,FALSE,NA,Flavanols,NA,NA,28/03/2011
+285,2613,1379,Food,dark chocolate,g,80,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,11,7,4,NCT,hours,48,2,2-7 days,NA,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,NA,30/03/2011
+146,2523,688,Food,orange juice,g,300,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,129,NA,NA,NCT,days,2,2,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,08/02/2011
+152,2534,2331,Experimental food,juice mix,mL/kg bw,6.300000191,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,10,0,NCT,days,2,2,2-7 days,NA,FALSE,TRUE,1,FALSE,NA,Flavanones,NA,NA,09/02/2011
+154,2541,2323,Pure compound,naringenin,mg/kg bw,30,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,10,NA,NA,NCT,days,2,2,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,10/02/2011
+155,2541,2323,Pure compound,naringenin,mg/kg bw,90,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,10,NA,NA,NCT,days,2,2,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,10/02/2011
+156,2541,2323,Pure compound,naringenin,mg/kg bw,270,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,10,NA,NA,NCT,days,2,2,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,10/02/2011
+161,2545,2334,Pure compound,eriocitrin,µmol/kg bw,50,FALSE,urine,FALSE,TRUE,Rat,Rat,TRUE,NA,4,4,0,NRCT,days,2,2,2-7 days,NA,FALSE,FALSE,NA,TRUE,synthetic base diet,Flavanones,NA,NA,11/02/2011
+97,2456,2300,Food,homogenized raspberries,g,300,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,6,4,NCT,days,2,2,2-7 days,NA,FALSE,TRUE,2,FALSE,NA,HBA,NA,NA,24/01/2011
+208,2581,2368,Experimental food,one tablet of perilla extract,tablet,1,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,6,0,RCT,hours,48,2,2-7 days,NA,FALSE,TRUE,2,FALSE,NA,HCA,NA,NA,17/03/2011
+854,2729,2433,Pure compound,kakkalide,g/day,9,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,48,48,0,NCT,days,2,2,2-7 days,NA,FALSE,TRUE,4,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+882,2702,2217,Food,soya flour,g/day,40,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,NA,NA,NCT,days,2,2,2-7 days,2,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+886,2704,2447,Experimental food,capsule with soy extract,capsules/day,2,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,days,2,2,2-7 days,2,FALSE,FALSE,NA,TRUE,Soy milk (0.8 mL),Isoflavones,NA,NA,21/06/2011
+905,2683,2453,Pure compound,SE5-OH equol supplement,tablets,2,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,24,0,24,NCT,hours,48,2,2-7 days,NA,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+906,2683,2453,Pure compound,SE5-OH equol supplement,tablets,6,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,24,0,24,NCT,hours,48,2,2-7 days,NA,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+893,2677,2436,Food,soy protein,g,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,hours,56,2.333333333,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+186,2539,2341,Pure compound,isorhamnetin,mg/kg bw,0.25,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,30,30,0,NCT,days,2.5,2.5,2-7 days,NA,FALSE,TRUE,7,FALSE,NA,Flavonols,NA,NA,23/02/2011
+187,2539,2341,Pure compound,isorhamnetin,mg/kg bw,0.5,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,30,30,0,NCT,days,2.5,2.5,2-7 days,NA,FALSE,TRUE,7,FALSE,NA,Flavonols,NA,NA,23/02/2011
+188,2539,2341,Pure compound,isorhamnetin,mg/kg bw,1,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,30,30,0,NCT,days,2.5,2.5,2-7 days,NA,FALSE,TRUE,7,FALSE,NA,Flavonols,NA,NA,23/02/2011
+255,2603,2393,Pure compound,(-)-epicatechin gallate,mg/kg bw,100,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,TRUE,NA,6,6,0,NRCT,days,3,3,2-7 days,NA,FALSE,TRUE,7,FALSE,NA,Flavanols,NA,NA,28/03/2011
+284,2617,2307,Experimental food,grape seed extract in aqueous solution,mg/kg bw/day,600,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NCT,days,3,3,2-7 days,3,FALSE,TRUE,0.5,FALSE,NA,Flavanols,NA,Dose given twice a day,30/03/2011
+196,2556,2343,Pure compound,quercetin 3-O-glucoside,mg,151,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,2,5,4,NCT,hours,72,3,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+197,2556,2344,Pure compound,quercetin 4'-O-glucoside,mg,154,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,2,5,4,NCT,hours,72,3,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+908,2685,2455,Food,kinako (baked soybean powder),g,60,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,7,7,0,NCT,hours,72,3,2-7 days,72,FALSE,TRUE,6,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+193,2549,2342,Food,fried red onions,g,270,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,4,2,NCT,days,4,4,2-7 days,NA,FALSE,TRUE,2,TRUE,fried in margarine,Flavonols,NA,NA,24/02/2011
+857,2731,2436,Experimental food,soy protein isolates,% of diet,24,TRUE,urine,FALSE,TRUE,Pig,Other,FALSE,NA,2,0,2,NCT,days,4,4,2-7 days,4,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+868,2721,2443,Experimental food,red clover based dietary supplements,NA,NA,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,7,0,7,NCT,days,4,4,2-7 days,4,FALSE,TRUE,7,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+920,2740,2464,Pure compound,sesaminol triglucoside,mg/kg bw,1500,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,30,30,NA,NCT,days,4,4,2-7 days,4,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+921,2740,2464,Pure compound,sesaminol triglucoside,mg/kg bw,500,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,30,30,NA,NCT,days,4,4,2-7 days,4,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+37,2486,2271,Pure compound,piceid,mg/70 kg bw,85.5,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,9,9,0,NCT,days,4,4,2-7 days,NA,FALSE,TRUE,2,TRUE,taken in low fat milk,Stilbenes,NA,NA,19/11/2010
+46,2479,860,Food,Merlot red wine,mL,250,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,5,5,0,NCT,days,4,4,2-7 days,NA,FALSE,TRUE,10,FALSE,NA,Stilbenes,NA,NA,05/01/2011
+47,2491,860,Food,Lambrusco red wine,mL,300,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,10,0,NCT,days,4,4,2-7 days,NA,FALSE,FALSE,NA,TRUE,milanese beef cutlet,Stilbenes,NA,NA,05/01/2011
+48,2491,860,Food,Cabernet Franc red wine,mL,600,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,1,4,NCT,days,4,4,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,05/01/2011
+49,2491,860,Experimental food,Aglianico red wine (with fat meal),mL,600,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,NA,NA,NCT,days,4,4,2-7 days,NA,FALSE,FALSE,NA,TRUE,meal containing 69 g lipid,Stilbenes,NA,NA,05/01/2011
+50,2491,860,Experimental food,Aglianico red wine (with lean meal),mL,600,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,5,NA,NA,NCT,days,4,4,2-7 days,NA,FALSE,FALSE,NA,TRUE,meal containing 3.3 g lipid,Stilbenes,NA,NA,05/01/2011
+250,2602,2345,Pure compound,catechin,% of diet,0.100000001,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,0,5,NRCT,days,5,5,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+251,2602,2390,Pure compound,procyanidin dimer B3,% of diet,0.100000001,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,0,5,NRCT,days,5,5,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+252,2602,2391,Pure compound,procyanidin trimer C2,% of diet,0.100000001,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,0,5,NRCT,days,5,5,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+253,2602,2392,Pure compound,procyanidin polymers,% of diet,0.100000001,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,0,5,NRCT,days,5,5,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+254,2602,2319,Experimental food,control diet,NA,NA,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,0,5,NRCT,days,5,5,2-7 days,NA,TRUE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+271,2609,2313,Pure compound,epicatechin,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,NA,NA,NRCT,days,5,5,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,These 3 interventions could be conbined into one,30/03/2011
+144,2523,686,Food,fresh orange segments,g,150,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,20,10,10,NCT,days,5,5,2-7 days,NA,FALSE,TRUE,2,TRUE,white bread toast with spread,Flavanones,NA,NA,08/02/2011
+145,2523,688,Food,orange juice,g,300,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,20,10,10,NCT,days,5,5,2-7 days,NA,FALSE,TRUE,2,TRUE,white bread toast with spread,Flavanones,NA,NA,08/02/2011
+95,2452,922,Food,pomegranate juice,L/day,1,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,4,2,NCT,days,5,5,2-7 days,5,FALSE,TRUE,NA,FALSE,NA,HBA,NA,Timecourse data not entered due to max-min data,24/01/2011
+870,2694,2208,Food,soy milk,mL/day,750,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,31,NA,31,NRCT,days,5,5,2-7 days,5,FALSE,TRUE,4,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+871,2694,2208,Experimental food,soy supplements,supplements/day,3,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,31,NA,31,NRCT,days,5,5,2-7 days,5,FALSE,TRUE,4,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+915,2687,2457,Experimental food,Astragali radix decoction,g/day,120,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,5,5,2-7 days,5,FALSE,TRUE,10,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+299,2604,2394,Experimental food,green tea powder in hot water,g,2.400000095,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,days,6,6,2-7 days,6,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,09/04/2011
+349,2645,2306,Experimental food,freeze-dried black raspberries,g/day,45,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,10,0,NCT,days,7,7,2-7 days,7,FALSE,TRUE,2,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+280,2612,2373,Pure compound,5-caffeoylquinic acid,g/day,2,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,20,10,10,RCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+281,2612,2397,Experimental food,black tea solids,g/day,4,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,20,10,10,RCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+282,2612,2385,Pure compound,quercetin 3-O-rutinoside,mg/day,440,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,20,10,10,RCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+283,2612,2384,Experimental food,citric acid in water,g/day,0.5,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,20,10,10,RCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+153,2540,2332,Experimental food,B. falcatum and F. aurantii herbs,g/kg bw,1.350000024,TRUE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,5,NA,NA,NCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,high-fat diet,Flavanones,NA,NA,10/02/2011
+170,2557,2324,Pure compound,naringin,% of diet,0.5,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,6,NA,NA,NCT,days,7,7,2-7 days,NA,FALSE,TRUE,7,FALSE,NA,Flavanones,NA,NA,21/02/2011
+190,2546,1338,Food,cooked onion slices,kg/day,1,TRUE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,7,7,0,NCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,Onion slices eaten three times per day,24/02/2011
+191,2547,2277,Pure compound,quercetin capsules,capsules/day,3,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,10,6,4,NCT,days,7,7,2-7 days,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,Each capsule contained 500 mg,24/02/2011
+106,2463,2306,Experimental food,freeze-dried black raspberry,g/day,45,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,11,NA,NA,NCT,days,7,7,2-7 days,7,FALSE,TRUE,2,FALSE,NA,HBA,NA,Rejecting day 7 data - too complex,24/01/2011
+859,2725,2437,Experimental food,soya-based nutrition tablets,NA,NA,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,8,NA,NA,NCT,days,7,7,2-7 days,7,FALSE,TRUE,7,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+926,2736,2012,Food,raw ground flaxseed,g,15,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,0,9,NCT,days,7,7,2-7 days,7,FALSE,TRUE,4,TRUE,Apple sauce,Lignans,NA,NA,24/06/2011
+928,2736,2012,Experimental food,processed flaxseed incorporated into muffin,g,25,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,0,9,NCT,days,7,7,2-7 days,7,FALSE,TRUE,4,TRUE,Apple sauce,Lignans,NA,NA,24/06/2011
+932,2737,2012,Food,shredded flaxseed,% of diet,5,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,0,8,NCT,days,7,7,2-7 days,7,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+948,2736,2012,Experimental food,processed flaxseed incorporated into bread,g,25,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,0,9,NCT,days,7,7,2-7 days,7,FALSE,TRUE,4,TRUE,Apple sauce,Lignans,NA,NA,24/06/2011
+112,2510,2307,Experimental food,grape seed polyphenolic extract,mg/kg bw,50,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,8,8,0,NCT,days,8,8,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,26/01/2011
+113,2510,2307,Experimental food,grape seed polyphenolic extract,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,8,8,0,NCT,days,8,8,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,26/01/2011
+114,2510,2307,Experimental food,grape seed polyphenolic extract,mg/kg bw,150,FALSE,plasma,TRUE,FALSE,Rat,Rat,TRUE,NA,8,8,0,NCT,days,8,8,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,26/01/2011
+214,2582,2319,Experimental food,control diet,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,days,8,8,More than 1 month,8,TRUE,FALSE,NA,FALSE,NA,HCA,NA,Control intervention for 215-217,17/03/2011
+215,2582,2373,Pure compound,5-caffeoylquinic acid,µmol/day,250,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,days,8,8,More than 1 month,8,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+216,2582,2374,Pure compound,caffeic acid,µmol/day,250,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,days,8,8,More than 1 month,8,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+217,2582,2375,Pure compound,quinic acid,µmol/day,250,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,days,8,8,More than 1 month,8,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+927,2736,2012,Food,raw ground flaxseed,g,25,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,9,0,9,NCT,days,8,8,More than 1 month,8,FALSE,TRUE,4,TRUE,Apple sauce,Lignans,NA,NA,24/06/2011
+880,2701,2226,Food,tempeh,g/day,112,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,17,17,0,RCT,days,9,9,More than 1 month,9,FALSE,TRUE,12,TRUE,Tomato sauce recipe,Isoflavones,NA,NA,21/06/2011
+881,2701,2226,Food,soybean pieces,g/day,125,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,17,17,0,RCT,days,9,9,More than 1 month,9,FALSE,TRUE,12,TRUE,Tomato sauce recipe,Isoflavones,NA,NA,21/06/2011
+912,2689,2462,Experimental food,isoflavones from soy protein powder,mg/day,0.109999999,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,0,12,NCT,days,9,9,More than 1 month,9,FALSE,TRUE,21,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+913,2689,2463,Experimental food,isoflavones from soy protein powder,mg/day,1,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,0,12,NCT,days,9,9,More than 1 month,9,FALSE,TRUE,21,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+914,2689,2436,Experimental food,isoflavones from soy protein powder,mg/day,2,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,12,0,12,NCT,days,9,9,More than 1 month,9,FALSE,TRUE,21,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+934,2738,2468,Pure compound,secoisolariciresinol diglycoside,mg/day,1.5,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,12,0,12,NCT,days,10,10,More than 1 month,10,FALSE,TRUE,5,FALSE,NA,Lignans,NA,NA,24/06/2011
+944,2735,2469,Pure compound,matairesinol,mg/kg bw,25,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,7,7,0,NCT,days,10,10,More than 1 month,10,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+945,2735,2470,Pure compound,7-hydroxymatairesinol,mg/kg bw,25,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,11,11,0,NCT,days,10,10,More than 1 month,10,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+946,2735,2471,Pure compound,secoisolariciresinol,mg/kg bw,25,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,11,11,0,NCT,days,10,10,More than 1 month,10,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+947,2735,2474,Pure compound,lariciresinol,mg/kg bw,25,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,11,11,0,NCT,days,10,10,More than 1 month,10,FALSE,TRUE,10,FALSE,NA,Lignans,NA,NA,24/06/2011
+138,2520,2326,Experimental food,extract of unfermented Cyclopia genistoides,g/day,75,TRUE,plasma and urine,TRUE,TRUE,Pig,Other,FALSE,NA,3,0,3,NCT,days,11,11,More than 1 month,11,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,07/02/2011
+310,2630,2408,Experimental food,red orange lyophilisate,g/kg diet,200,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,9,9,0,NCT,days,12,12,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,15/04/2011
+900,2680,2452,Pure compound,puerarin,mg/kg bw/3 days,50,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,9,9,0,NCT,days,12,12,More than 1 month,12,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+74,2467,2009,Food,virgin olive oil,mL,25,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,days,12,12,More than 1 month,NA,FALSE,TRUE,NA,TRUE,bread,Tyrosols,NA,NA,12/01/2011
+294,2618,2402,Food,natural cocoa powder,g/kg bw/day,4.800000191,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,7,NA,NA,NRCT,weeks,2,14,More than 1 month,2,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+295,2618,2403,Food,natural cocoa,% of diet,10,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,7,NA,NA,NRCT,weeks,2,14,More than 1 month,2,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,An ad libitum diet? Absolute dose not known,30/03/2011
+189,2544,1086,Food,tomato puree,g/day,25,TRUE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,12,0,12,NCT,days,14,14,More than 1 month,14,FALSE,TRUE,7,TRUE,with 5 g olive oil,Flavonols,NA,NA,24/02/2011
+869,2722,2441,Food,soy bars,bars/day,3,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,NA,NA,NCT,days,14,14,More than 1 month,14,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+878,2698,2441,Food,soy bars,bars/day,3,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,days,14,14,More than 1 month,14,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+867,2726,2441,Food,soy bars,bars/day,3,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,3,3,NCT,weeks,2,14,More than 1 month,2,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+348,2646,2418,Experimental food,blackberry extract,g/kg diet,15,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,12,12,0,NRCT,days,15,15,More than 1 month,15,FALSE,TRUE,7,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+272,2609,2313,Pure compound,epicatechin,mg/kg bw,100,FALSE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,6,NA,NA,NRCT,days,15,15,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,These 3 interventions could be conbined into one,30/03/2011
+901,2684,2239,Experimental food,low-isoflavone burger,burger/day,1,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,24,5,19,NCT,days,17,17,More than 1 month,17,FALSE,TRUE,25,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+902,2684,2461,Experimental food,high-isoflavone burger,burger/day,1,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,24,5,19,NCT,days,17,17,More than 1 month,17,FALSE,TRUE,25,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+195,2555,2277,Pure compound,quercetin,mg/100 g diet,20,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,12,NA,NA,NRCT,weeks,3,21,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,25/02/2011
+98,2457,2301,Food,frozen strawberries,g/day,250,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,21,0,21,NCT,days,21,21,More than 1 month,21,FALSE,TRUE,14,FALSE,NA,HBA,NA,NA,24/01/2011
+150,2529,1064,Food,orange juice,mL/day,236,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,13,6,7,NCT,days,22,22,More than 1 month,22,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,08/02/2011
+218,2583,2376,Experimental food,red wine and red grape extract capsules,capsules/day,1,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,26,15,11,RCT,days,28,28,More than 1 month,28,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,17/03/2011
+290,2614,1558,Food,cocoa powder in skimmed milk,g/day,40,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,42,19,23,RCT,weeks,4,28,More than 1 month,4,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,In 250 ml milk,30/03/2011
+291,2614,2400,Food,skimmed milk,mL/day,500,TRUE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,42,19,23,RCT,weeks,4,28,More than 1 month,4,TRUE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,30/03/2011
+137,2519,2324,Food,Florida-grown grapefruit,fruits/day,1,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,4,NA,NA,NCT,days,28,28,More than 1 month,28,FALSE,FALSE,NA,FALSE,NA,Flavanones,NA,NA,07/02/2011
+184,2536,2277,Pure compound,quercetin,% of diet,1,TRUE,plasma,TRUE,FALSE,Rat,Rat,FALSE,NA,12,12,0,NCT,days,28,28,More than 1 month,28,FALSE,TRUE,7,FALSE,NA,Flavonols,NA,NA,23/02/2011
+204,2513,2317,Experimental food,hot water,NA,NA,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,8,2,NCT,days,28,28,More than 1 month,28,TRUE,TRUE,28,FALSE,NA,Flavonols,NA,Control intervention for 124,26/01/2011
+124,2513,717,Food,black tea,cups/day,5,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,8,2,NCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,FALSE,NA,HBA,NA,"Cups taken randomly throughout the day, cup=250ml",26/01/2011
+53,2473,864,Food,sparkling wine,mL/day,300,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,10,0,RCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,FALSE,NA,Stilbenes,NA,NA,06/01/2011
+54,2473,2282,Food,red wine,mL/day,200,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,0,10,RCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,FALSE,NA,Stilbenes,NA,NA,06/01/2011
+322,2473,2415,Food,gin,mL/day,100,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,10,0,RCT,days,28,28,More than 1 month,28,TRUE,TRUE,28,FALSE,NA,Stilbenes,NA,NA,17/04/2011
+323,2473,861,Food,white wine,mL/day,200,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,10,0,10,RCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,FALSE,NA,Stilbenes,NA,NA,17/04/2011
+69,2470,2284,Experimental food,phenol-poor olive oil with 7 mg hydroxytyrosol,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,TRUE,bread,Tyrosols,NA,Is the dose mL/day?,12/01/2011
+70,2470,2285,Experimental food,phenol-poor olive oil with 13.3 mg hydroxytyrosol,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,TRUE,bread,Tyrosols,NA,Is the dose mL/day?,12/01/2011
+71,2470,2286,Experimental food,phenol-poor olive oil with 19.2 mg hydroxytyrosol,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,TRUE,bread,Tyrosols,NA,Is the dose mL/day?,12/01/2011
+72,2470,2287,Experimental food,phenol-poor olive oil with 23.2 mg hydroxytyrosol,mL,50,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,6,6,0,NCT,days,28,28,More than 1 month,28,FALSE,TRUE,28,TRUE,bread,Tyrosols,NA,Is the dose mL/day?,12/01/2011
+907,2676,2454,Experimental food,red clover silage,g/kg bw/day,12.80000019,TRUE,plasma,TRUE,FALSE,Sheep,Other,FALSE,NA,2,0,2,NCT,months,1,30,More than 1 month,1,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+93,2451,2297,Experimental food,pomegranate husk extract,% of diet,20,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,10,0,10,NRCT,days,37,37,More than 1 month,37,FALSE,FALSE,NA,FALSE,NA,HBA,NA,Possibly reject due to repeating dose,21/01/2011
+94,2453,2298,Pure compound,punicalagins,% of diet,6,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,days,37,37,More than 1 month,37,FALSE,FALSE,NA,FALSE,NA,HBA,NA,Possibly reject due to repeating dose,24/01/2011
+246,2600,2345,Pure compound,catechin,% of diet,0.200000003,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,weeks,6,42,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,NA,28/03/2011
+897,2679,2217,Food,steam-treated soya flour,g/day,45,TRUE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,23,0,23,NCT,weeks,6,42,More than 1 month,6,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+898,2679,2451,Experimental food,red clover seeds,g/day,10,TRUE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,23,0,23,NCT,weeks,6,42,More than 1 month,6,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+899,2679,2012,Food,linseed,g/day,25,TRUE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,23,0,23,NCT,weeks,6,42,More than 1 month,6,FALSE,TRUE,14,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+917,2733,2475,Experimental food,control diet,NA,NA,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,31,0,31,RCT,weeks,7,49,More than 1 month,7,TRUE,TRUE,49,FALSE,NA,Lignans,NA,NA,24/06/2011
+918,2733,2012,Food,ground flaxseed,g/day,5,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,31,0,31,RCT,weeks,7,49,More than 1 month,7,FALSE,TRUE,49,FALSE,NA,Lignans,NA,NA,24/06/2011
+919,2733,2012,Food,ground flaxseed,g/day,10,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,31,0,31,RCT,weeks,7,49,More than 1 month,7,FALSE,TRUE,49,FALSE,NA,Lignans,NA,NA,24/06/2011
+130,2511,2319,Experimental food,control diet,NA,NA,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,days,50,50,More than 1 month,NA,TRUE,FALSE,NA,FALSE,NA,HBA,NA,NA,28/01/2011
+131,2511,2319,Experimental food,"control diet, high fructose",NA,NA,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,days,50,50,More than 1 month,NA,TRUE,FALSE,NA,FALSE,NA,HBA,NA,NA,28/01/2011
+132,2511,2321,Experimental food,cranberry powder diet,mg/kg bw,3.299999952,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,days,50,50,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,28/01/2011
+133,2511,2321,Experimental food,cranberry powder diet,mg/kg bw,6.599999905,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,days,50,50,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,28/01/2011
+134,2511,2321,Experimental food,cranberry powder diet,mg/kg bw,33,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,10,10,0,NRCT,days,50,50,More than 1 month,NA,TRUE,FALSE,NA,FALSE,NA,HBA,NA,NA,28/01/2011
+324,2650,2319,Experimental food,control chow,NA,NA,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,16,16,0,NRCT,weeks,8,56,More than 1 month,8,TRUE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+325,2650,780,Food,wild lowbush blueberry diet,% of diet,8,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,16,16,0,NRCT,weeks,8,56,More than 1 month,8,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+350,2644,2425,Experimental food,anthocyanin-rich maize seed powder,% of diet,20,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,31,31,0,NRCT,weeks,8,56,More than 1 month,8,FALSE,TRUE,8,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+922,2734,2012,Food,flaxseed,% of diet,5,TRUE,plasma,TRUE,FALSE,Mouse,Mouse,FALSE,NA,24,0,24,NRCT,weeks,10,70,More than 1 month,10,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+923,2734,2012,Food,flaxseed,% of diet,10,TRUE,plasma,TRUE,FALSE,Mouse,Mouse,FALSE,NA,24,0,24,NRCT,weeks,10,70,More than 1 month,10,FALSE,FALSE,NA,FALSE,NA,Lignans,NA,NA,24/06/2011
+64,2472,2283,Pure compound,oleuropein,g/kg bw/day,0.150000006,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,3,0,3,NRCT,days,80,80,More than 1 month,80,FALSE,FALSE,NA,FALSE,NA,Tyrosols,NA,Treatment time 80 days,11/01/2011
+65,2472,2034,Food,extra virgin olive oil,g/kg bw/day,50,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,3,0,3,NRCT,days,80,80,More than 1 month,80,FALSE,FALSE,NA,FALSE,NA,Tyrosols,NA,Treatment time 80 days,11/01/2011
+66,2480,2283,Pure compound,oleuropein,mg/kg bw/day,0.330000013,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,6,0,6,NRCT,days,80,80,More than 1 month,80,FALSE,FALSE,NA,FALSE,NA,Tyrosols,NA,Treatment time 80 days,11/01/2011
+67,2480,2034,Food,extra virgin olive oil,g/kg bw/day,1.100000024,TRUE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,6,0,6,NRCT,days,80,80,More than 1 month,80,FALSE,FALSE,NA,FALSE,NA,Tyrosols,NA,Treatment time 80 days,11/01/2011
+887,2705,2012,Food,flaxseed powder,g/day,10,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,18,0,18,NCT,days,90,90,More than 1 month,90,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+909,2689,2462,Experimental food,isoflavones from soy protein powder,mg/day,0.109999999,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,18,0,18,NCT,days,93,93,More than 1 month,93,FALSE,TRUE,26,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+910,2689,2463,Experimental food,isoflavones from soy protein powder,mg/day,1,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,18,0,18,NCT,days,93,93,More than 1 month,93,FALSE,TRUE,26,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+911,2689,2436,Experimental food,isoflavones from soy protein powder,mg/day,2,TRUE,urine,FALSE,TRUE,Human,Human,FALSE,NA,18,0,18,NCT,days,93,93,More than 1 month,93,FALSE,TRUE,26,FALSE,NA,Isoflavones,NA,NA,21/06/2011
+96,2502,2299,Food,acorns from Quercus ilex and Quercus suber,kg/day,4.039999962,TRUE,plasma and urine,TRUE,TRUE,Pig,Other,FALSE,NA,32,NA,NA,NRCT,days,117,117,More than 1 month,32,FALSE,FALSE,NA,FALSE,NA,HBA,NA,NA,24/01/2011
+326,2643,2416,Food,purple carrot juice,mL,50,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,5,5,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+327,2643,2416,Food,purple carrot juice,mL,150,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,5,5,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+328,2643,2416,Food,purple carrot juice,mL,250,FALSE,plasma,TRUE,FALSE,Human,Human,FALSE,NA,10,5,5,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+329,2654,2417,Experimental food,red orange juice extract solution (without glucose),mL,1.5,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+330,2654,2417,Experimental food,red orange juice extract solution (with glucose),mL,1.5,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,1,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+355,2640,2427,Experimental food,freeze-dried marionberry powder,NA,NA,FALSE,plasma and urine,TRUE,TRUE,Pig,Other,FALSE,NA,3,NA,NA,NCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,14,FALSE,NA,Anthocyanins,NA,NA,01/05/2011
+258,2606,1558,Food,cocoa powder dissolved in milk,g,40,FALSE,urine,FALSE,TRUE,Human,Human,FALSE,NA,7,2,5,NCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,28/03/2011
+267,2625,2394,Experimental food,green tea solids in water,% of ad libitum drinking fluid,0.600000024,TRUE,plasma and urine,TRUE,TRUE,Mouse,Mouse,FALSE,NA,5,0,5,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,Abolute dose not known. Fluid taken ad libitum?,30/03/2011
+268,2625,2314,Pure compound,epigallocatechin gallate,% of ad libitum drinking fluid,0.300000012,TRUE,plasma and urine,TRUE,TRUE,Mouse,Mouse,FALSE,NA,5,0,5,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,Abolute dose not known. Fluid taken ad libitum?,30/03/2011
+269,2625,2314,Pure compound,epigallocatechin gallate,% of ad libitum drinking fluid,0.100000001,TRUE,plasma and urine,TRUE,TRUE,Mouse,Mouse,FALSE,NA,5,0,5,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavanols,NA,Abolute dose not known. Fluid taken ad libitum?,30/03/2011
+273,2610,2396,Pure compound,theaflavins in hot water,mg,700,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,2,1,1,NCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,2,FALSE,NA,Flavanols,NA,NA,30/03/2011
+136,2519,2324,Pure compound,naringin,mg,500,FALSE,plasma and urine,TRUE,TRUE,Human,Human,FALSE,NA,1,1,0,NCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,NA,FALSE,NA,Flavanones,NA,NA,07/02/2011
+192,2548,2339,Pure compound,[2-14C]quercetin 4'-glucoside,mg/kg bw,7.599999905,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,3,3,0,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Flavonols,NA,NA,24/02/2011
+229,2591,2382,Pure compound,"isopropyl 3-(3,4-dihydroxyphenyl)-2-hydroxypropanoate",mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Rabbit,Other,FALSE,NA,NA,NA,NA,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HBA,NA,"Length of intervention not known, check paper",17/03/2011
+209,2593,2369,Experimental food,lignin-enriched wheat bran,% of diet,3,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NRCT,hours,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+210,2593,2370,Experimental food,poplar wood lignins,% of diet,0.419999987,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NRCT,hours,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+211,2593,2371,Pure compound,ferulic acid,% of diet,0.419999987,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NRCT,hours,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+212,2593,2372,Pure compound,sinapic acid,% of diet,0.419999987,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NRCT,hours,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+213,2593,2319,Experimental food,control diet,NA,NA,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NRCT,hours,NA,NA,More than 1 month,NA,TRUE,FALSE,NA,FALSE,NA,HCA,NA,Control intervention for 2369-2372,17/03/2011
+221,2586,2378,Pure compound,dihydrocaffeic acid,µmol/kg bw,100,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,NA,NA,NA,NRCT,hours,NA,NA,More than 1 month,NA,FALSE,TRUE,7,FALSE,NA,HCA,NA,"Duration not known, check paper",17/03/2011
+231,2588,2371,Pure compound,ferulic acid,mg/kg bw,5.150000095,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,33,33,0,NRCT,hours,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,"Length of intervention not known, check paper",17/03/2011
+224,2590,2379,Pure compound,"1,5-dicaffeoylquinic acid",mg/kg bw,160,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,4,4,0,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+225,2592,2380,Pure compound,danshensu,mg/kg bw,40,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+226,2592,2374,Pure compound,caffeic acid,mg/kg bw,40,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+227,2592,2371,Pure compound,ferulic acid,mg/kg bw,40,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+228,2592,2381,Pure compound,isoferulic acid,mg/kg bw,40,FALSE,plasma and urine,TRUE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,HCA,NA,NA,17/03/2011
+858,2731,2436,Food,soy protein,NA,NA,TRUE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,9,0,9,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+860,2723,2348,Pure compound,tectoridin,mg/kg bw,100,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,6,NA,NA,NCT,NA,NA,NA,More than 1 month,NA,FALSE,TRUE,1,FALSE,NA,Isoflavones,NA,NA,20/06/2011
+59,2490,2280,Pure compound,"3,4,5,4'-tetramethoxystilbene",mg/kg bw,240,FALSE,plasma,TRUE,FALSE,Mouse,Mouse,FALSE,NA,12,12,0,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,06/01/2011
+60,2494,2266,Pure compound,resveratrol,mg/kg bw,20,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,5,5,0,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,07/01/2011
+61,2493,2281,Experimental food,polygonum cuspidatum extract,mg/kg bw,20,FALSE,urine,FALSE,TRUE,Rat,Rat,FALSE,NA,8,8,0,NCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,07/01/2011
+62,2488,2266,Pure compound,resveratrol,mg/kg bw,20,FALSE,plasma,TRUE,FALSE,Mouse,Mouse,TRUE,NA,12,0,12,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,07/01/2011
+63,2488,2266,Pure compound,resveratrol,mg/kg bw,60,FALSE,plasma,TRUE,FALSE,Mouse,Mouse,TRUE,NA,12,0,12,NRCT,NA,NA,NA,More than 1 month,NA,FALSE,FALSE,NA,FALSE,NA,Stilbenes,NA,NA,07/01/2011

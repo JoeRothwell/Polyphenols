@@ -1,0 +1,54 @@
+method.full,Hydrolysis,food,food2,process,compound,cmpd.order,RF
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,Caffeic acid,24,1.149642838
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Caffeic acid,24,0.141713457
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Caffeic acid,24,0.608479559
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,Caffeic acid,24,0.148259571
+1 - Chromatography,No,"Potato, raw",Potato w. skin,boiled,Caffeic acid,24,0.475481963
+2 - Chromatography after hydrolysis,Yes,"Zucchini, raw",Zucchini,boiled,Caffeic acid,24,0.280100257
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,Ferulic acid,23,0.180697678
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Ferulic acid,23,0.341842424
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Ferulic acid,23,0.571174264
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,Sinapic acid,22,0.50776593
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Sinapic acid,22,0.885316315
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Sinapic acid,22,0.395703793
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,p-Coumaric acid,21,1.437650223
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,p-Coumaric acid,21,0.772383332
+2 - Chromatography after hydrolysis,Yes,"Zucchini, raw",Zucchini,boiled,p-Coumaric acid,21,0.293333342
+1 - Chromatography,No,"Potato, raw",Potato w. skin,boiled,Protocatechuic acid,20,0.643200016
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,3-Caffeoylquinic acid,19,1.371736345
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,4-Caffeoylquinic acid,18,0.794293302
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,5-Caffeoylquinic acid,17,0.391764716
+1 - Chromatography,No,"Carrot, raw",Carrot,boiled,5-Caffeoylquinic acid,17,0.525585395
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,5-Caffeoylquinic acid,17,1.015132427
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,5-Caffeoylquinic acid,17,0.823115814
+1 - Chromatography,No,"Potato, raw",Potato w. skin,boiled,5-Caffeoylquinic acid,17,0.676641397
+2 - Chromatography after hydrolysis,Yes,"Zucchini, raw",Zucchini,boiled,5-Caffeoylquinic acid,17,0
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,Kaempferol,16,0.170414944
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Kaempferol,16,1.03839175
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Kaempferol,16,0.915417254
+2 - Chromatography after hydrolysis,Yes,"Onion [Unknown color], raw",Onion,boiled,Kaempferol,16,0.262812517
+1 - Chromatography,No,"Broccoli, raw",Broccoli,boiled,"Kaempferol 3,7-O-diglucoside",15,0.222000003
+1 - Chromatography,No,"Broccoli, raw",Broccoli,boiled,Kaempferol 3-O-glucoside,14,0.237857162
+1 - Chromatography,No,"Broccoli, raw",Broccoli,boiled,Kaempferol 3-O-sophoroside,13,0.153795179
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,Quercetin,12,0.220025319
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Quercetin,12,0.374877449
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Quercetin,12,0.706179082
+2 - Chromatography after hydrolysis,Yes,"Onion [Unknown color], raw",Onion,boiled,Quercetin,12,0.445609763
+1 - Chromatography,No,"Onion [Yellow], raw",Onion,boiled,"Quercetin 3,4'-O-diglucoside",11,0.796811369
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,Quercetin 3-O-diglucoside,10,0.355555582
+1 - Chromatography,No,"Broccoli, raw",Broccoli,boiled,Quercetin 3-O-glucoside,9,0.185000006
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,Quercetin 3-O-gluc-rham-gluc,8,0.369230795
+1 - Chromatography,No,"Green bean, raw",Green bean,boiled,Quercetin 3-O-rhamnoside,7,0.798435979
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Quercetin 3-O-rutinoside,6,0.326518442
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Quercetin 3-O-rutinoside,6,0.080247626
+1 - Chromatography,No,"Green bean, raw",Green bean,boiled,Quercetin 3-O-rutinoside,6,0.783888122
+1 - Chromatography,No,"Potato, peeled, raw","Potato, peeled",boiled,Quercetin 3-O-rutinoside,6,0.533333349
+1 - Chromatography,No,"Zucchini, raw",Zucchini,boiled,Quercetin 3-O-rutinoside,6,0.653673874
+1 - Chromatography,No,"Broccoli, raw",Broccoli,boiled,Quercetin 3-O-sophoroside,5,0.307384597
+1 - Chromatography,No,"Onion [Unknown color], raw",Onion,boiled,Quercetin 4'-O-glucoside,4,0.548957695
+1 - Chromatography,No,"Onion [Yellow], raw",Onion,boiled,Quercetin 4'-O-glucoside,4,0.542495188
+2 - Chromatography after hydrolysis,Yes,"Broccoli, raw",Broccoli,boiled,Malvidin,3,0
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Luteolin,2,0.276707824
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Luteolin,2,0.743346393
+2 - Chromatography after hydrolysis,Yes,"Carrot, raw",Carrot,boiled,Naringenin,1,0.144160005
+2 - Chromatography after hydrolysis,Yes,"Cauliflower, raw",Cauliflower,boiled,Naringenin,1,0
