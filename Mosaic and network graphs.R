@@ -27,9 +27,9 @@ plot(inter.humanrat$Subclass.studied, inter.humanrat$Species,
 
 # Alluvial plot
 # From https://matthewdharris.com/2017/11/11/a-brief-diversion-into-static-alluvial-sankey-diagrams-in-r/
-dat_raw <- inter1 %>% select(Species, Dose.type)
+dat_raw <- inter1 %>% select(Species, biofluids, Dose.type)
 dat <- dat_raw %>%
-        group_by(Dose.type, Species) %>%
+        group_by(Species, biofluids, Dose.type) %>%
         summarise(freq = n()) %>%
         ungroup()
 
@@ -42,11 +42,11 @@ fct_levels <- c("A","C","B")
 
 # Plot with alluvial
 library(alluvial)
-alluvial(dat[, 2:1], freq = dat$freq, gap.width=0.05, blocks = T,
-         col= c(A_col, B_col),
-         border=c(A_col, B_col),
+alluvial(dat[, 1:3], freq = dat$freq, gap.width=0.05, blocks = T,
+         col= c(rep(A_col, 9), rep(B_col, 9)),
+         border = c(rep(A_col, 9), rep(B_col, 9)),
          cw = 0.1, xw = 0.2, #alpha = 0.7,
-         axis_labels = c("Species", "Dose type")
+         axis_labels = c("Species", "Biofluid", "Dose type")
          )
 
 #-----------------------------------------------------------------------------------------
