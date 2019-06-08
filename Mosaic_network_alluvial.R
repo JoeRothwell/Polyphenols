@@ -1,33 +1,37 @@
-#subset human, rat and mouse data only from interventions
-interventions <- read.csv("data/interventions.csv")
-inter.humanrat <- droplevels(subset(interventions, Species %in% c("Human", "Rat")))
-inter1 <- interventions %>% filter(Species == "Human" | Species == "Rat")
-                       
+# Analysis of categorical data in Phenol-Explorer 2
+# Mosaic, network and alluvial flow graphs
+
 library(vcd)
 library(labeling)
+library(dplyr)
 
-#plot of study designs
+# subset human, rat and mouse data only from interventions
+interventions <- read.csv("data/interventions.csv")
+inter <- interventions %>% filter(Species == "Human" | Species == "Rat")
+
+# plot of study designs
 mosaic(~ Species + biofluids + Dose.type, data=inter.humanrat, highlighting="Species")
 
-#plot of subclasses studied (how to change text size?)
+# plot of subclasses studied (how to change text size?)
 mosaic(~ Subclass.studied + Species, data=inter.humanrat, highlighting="Species",
        direction=c("h", "v"), keep_aspect_ratio = F,
               labeling = labeling_border(rot_labels = c(0,0,0,0) ),
        labeling_args=list(gp_labels=gpar(fontsize=10), 
                           gp_varnames=gpar(fontsize=12)))
 
-#reorder factor levels
-inter.humanrat$Subclass.studied<-factor(inter.humanrat$Subclass.studied,
-        levels=c("Flavonols", "Flavanones", "Anthocyanins", "Isoflavones", "Flavanols",
-                 "HCA", "HBA", "Lignans", "Tyrosols", "Stilbenes"))
+# reorder factor levels
+inter$Subclass.studied <- 
+  factor(inte$Subclass.studied,levels=c("Flavonols", "Flavanones", "Anthocyanins", 
+        "Isoflavones", "Flavanols","HCA", "HBA", "Lignans", "Tyrosols", "Stilbenes"))
 
-#with base graphics
-plot(inter.humanrat$Subclass.studied, inter.humanrat$Species, 
-     xlab=("Subclass studied"), ylab=("Species"), c = 0.8)
+# with base graphics
+plot(inter$Subclass.studied, inter$Species, xlab=("Subclass studied"), 
+     ylab=("Species"), c = 0.8)
 
 # Alluvial plot
 # From https://matthewdharris.com/2017/11/11/a-brief-diversion-into-static-alluvial-sankey-diagrams-in-r/
-dat_raw <- inter1 %>% select(Species, biofluids, Dose.type)
+
+dat_raw <- inter %>% select(Species, biofluids, Dose.type)
 dat <- dat_raw %>%
         group_by(Species, biofluids, Dose.type) %>%
         summarise(freq = n()) %>%
@@ -58,7 +62,7 @@ pathsnames <- read.csv("data/pathsnames.csv", header=T)
 metadata <- read.csv("data/metadata.csv", header=T)
 
 #create graph object from data set
-g <-graph.data.frame(pathsnames,directed=TRUE)
+g <- graph.data.frame(pathsnames, directed=TRUE)
 
 #remove unnecessary margins
 par(mar=c(1,1,1,1))
