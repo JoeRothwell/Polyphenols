@@ -10,10 +10,10 @@ interventions <- read.csv("data/interventions.csv")
 inter <- interventions %>% filter(Species == "Human" | Species == "Rat")
 
 # plot of study designs
-mosaic(~ Species + biofluids + Dose.type, data=inter.humanrat, highlighting="Species")
+mosaic(~ Species + biofluids + Dose.type, data=inter, highlighting="Species")
 
 # plot of subclasses studied (how to change text size?)
-mosaic(~ Subclass.studied + Species, data=inter.humanrat, highlighting="Species",
+mosaic(~ Subclass.studied + Species, data=inter, highlighting="Species",
        direction=c("h", "v"), keep_aspect_ratio = F,
               labeling = labeling_border(rot_labels = c(0,0,0,0) ),
        labeling_args=list(gp_labels=gpar(fontsize=10), 
