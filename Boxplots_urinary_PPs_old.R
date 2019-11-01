@@ -1,5 +1,9 @@
 #boxplot with or without points
 #prepare data by subsetting and melting individual and loq and blank data
+pps <- read.csv("data/plasmapps.csv")
+pps <- read.csv("data/plasmapps2.csv")
+labs <- read.csv("data/uPPc codes.csv", header=T)
+
 library(reshape2)
 stackpp <- melt(pps[1:475, ], id.vars="ID", variable.name="polyphenol", value.name="concentration", na.rm=T)
 #stackloqblank <- melt(pps[476:477, ], id.vars="ID", variable.name="polyphenol", value.name="concentration")

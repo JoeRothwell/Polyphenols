@@ -78,9 +78,7 @@ fig4 <- ggplot(pk, aes(x=species, y=thalf, colour=subclass)) +
 
 ggsave("thalf scatter.png", height=120, width=140, units="mm", plot=fig4)
 
-#---------------------------------------------------------------------------------------------------
-
-#Scientific notation
+# Scientific notation ----
 
 #subscript in axis labels: square brackets
 #superscripts in square brackets followed by ~
@@ -89,9 +87,8 @@ ggsave("thalf scatter.png", height=120, width=140, units="mm", plot=fig4)
 # *mu* causes greek letter mu without space
 xlab(   bquote("C" [max]~ "("*mu~"M)")    )
 
-#---------------------------------------------------------------------------------------------------
-
-#scatter plot of Tmax vs Cmax for all species
+# scatter plot ---- 
+# of Tmax vs Cmax for all species
 pk <- ggplot(pk.plasma, aes(x=tmax, y=cmax.um, shape=species)) + geom_point() +
   theme_bw() + scale_shape_manual(values=c(21,16,5,8,7,6)) + xlab("Tmax (h)") + ylab("Cmax (μM)")
 
@@ -111,9 +108,7 @@ pk <- ggplot(pk.plasma.human, aes(x=tmax, y=cmax.um, colour=subclass)) + geom_po
 
 ggsave("human pk subclass.png", height=4, width=8, unit="in")
 
-#---------------------------------------------------------------------------------------------------
-
-#Urinary excretion (for supp data)
+# Urinary excretion (for supp data) ----
 pkurine <- read.csv("pk_urine.csv", header=T)
 #get hydrolysed data only for urinary recovery
 ue <- subset(pkurine, !(hydrolysis %in% "None"))
@@ -143,9 +138,7 @@ fig4 <- ggplot(pkurinehydrol, aes(x=species, y=urinary.ex, colour=subclass)) +
 
 ggsave("urinary excretion scatter.png", height=100, width=110, units="mm", plot=fig4)
 
-#-------------------------------------------------------------------------------------------------------
-
-#range plots (abandonned)
+#range plots (abandonned) ----
 
 tmaxrange <- ggplot(pk.plasma.summary, aes(x=reorder(subclass, meantmax), y=meantmax, colour=species)) + 
   geom_point(position=position_dodge(width=0.5, height=0), size=2) + 

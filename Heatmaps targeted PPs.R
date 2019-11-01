@@ -1,7 +1,7 @@
 #Correlation heatmap for urine
 
 #read in, rows as obs and columns as variables
-urinecor <- read.csv("urinary PPs names.csv", header=T)
+urinecor <- read.csv("data/urinary PPs names.csv", header=T)
 urinecor1 <- as.matrix(urinecor)
 #check variances?
 apply(urinecor1, 2, var)
@@ -21,13 +21,11 @@ hc <- hclust(dist(tcor))
 par(mar=c(0, 4, 2, 2))
 pp <- plot(hc, xlab="", sub="", main="")
 
-#------------------------------------------------------------------------------------------
-
 #heatmap of urinary PPs v food intake
 #read data in and convert to matrix
 library(dplyr) #marked foods to filter out with _rm
 library(readr)
-food <- read_csv("Correlation PPs with foods abbrev.csv") %>%
+food <- read_csv("data/Correlation PPs with foods abbrev.csv") %>%
   filter(Polyphenol != "Gallocatechin") %>% select(-ends_with("rm"), -Polyphenol)
 
 #draw heatmap in gplots exported at 7x5 inch:
@@ -37,19 +35,14 @@ heatmap.2(data.matrix(food), dendrogram="both", key=F, col=redblue(256), trace="
           offsetRow = 0.2, offsetCol = 0.2, margins=c(6,6))
 dev.off()
 
-#---------------------------------------------------------------------------------------------
-
 #read data in and convert to matrix
-food <- read.csv("Correlation PPs with foods.csv", row.names=1)
-colfoods <- read.csv("food names heatmap.csv", header=F)
+food <- read.csv("data/Correlation PPs with foods.csv", row.names=1)
+colfoods <- read.csv("data/food names heatmap.csv", header=F)
 
 png(filename="Heatmap PPs food intake key.png", width=200, height=200, res=200, units="mm")
 heatmap.2(data.matrix(food), dendrogram="both", key=T, col=redblue(256), trace="none", 
           offsetRow = 0.1, offsetCol = 0.1, margins=c(8,12), labCol = unlist(colfoods))
 dev.off()
-
-#-----------------------------------------------------------------------------------------------
-
 
 #heatmap in ggplot2
 #set up a coloring scheme using colorRampPalette (from RBloggers post)

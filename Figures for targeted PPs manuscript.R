@@ -1,14 +1,11 @@
 #read in data and load packages
 ue <- read.csv("Urinary polyphenols_EPIC.csv")
 labs <- read.csv("uPPc codes.csv", header=T)
-library(dplyr)
-library(tidyr)
+library(tidyverse)
 library(ggplot2)
 library(scales)
 library(grid)
 source("Base breaks function.R")
-
-#------------------------------------------------------------------------------------------
 
 #subset data and make boxplot of concentrations
 uemelt <- ue %>% select(Center, uPPc_1:uPPc_39) %>% gather(polyphenol, conc, -Center) %>% 
@@ -28,8 +25,6 @@ ggplot(uemelt, aes(x=reorder(ppname, conc, FUN=median), y=conc)) +
 
 ggsave("Boxplot PPs manuscript2.png", width=140, height=130, units="mm")
 ggsave("Boxplot PPs manuscript.pdf", width=140, height=130, units="mm")
-
-#------------------------------------------------------------------------------------------
 
 #effects plot by country in black and white
 ue %>% group_by(Country) %>% select(-(Idepic:RE_ENERGY)) %>%
@@ -108,9 +103,7 @@ heatmap.2(mat, dendrogram="both", key=F, col=redblue(256), trace="none",
           labRow = ppnames, labCol = foodnames)
 dev.off()
 
-#------------------------------------------------------------------------------------------
-
-#Effects plot in colour
+# Effects plot in colour ----
 library(readr)
 profilespp <- read_csv("Urinary PPs names.csv", col_names=T)
 #gather argument says "gather all variables except country calling the new key column "compound"
