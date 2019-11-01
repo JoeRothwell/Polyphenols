@@ -64,7 +64,7 @@ ggsave("food intake heatmap ggplot.png", width=200, height=150, units="mm")
 
 #Node and edge tables for cytoscape correlation map
 
-ue <- read.csv("Urinary polyphenols_EPIC.csv")
+ue <- read.csv("data/Urinary polyphenols_EPIC.csv")
 
 nodetable <- ue %>% select(uPPc_1:uPPc_39) %>% gather(polyphenol, conc) %>%
   filter(!is.na(conc)) %>% 
