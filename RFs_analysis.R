@@ -3,7 +3,7 @@
 # Subsetting
 
 #to subset a data frame
-rfs <- read.csv("raw_data.csv", header=T)
+rfs <- read.csv("data/raw_data.csv", header=T)
 rfs.chrom1 <- subset(rfs, method=="Chrom.") #or
 rfs.chrom2 <- rfs[rfs$method=="Chrom.", ]
 
@@ -110,8 +110,8 @@ all.pool <- all.pool[order((all.pool$countraw_chrom + all.pool$countraw_group), 
 #write to csv
 write.csv(all.pool, file="Stats for defined and grouped RFs.csv")
 
-#------------------------------------------------------------------------------------------
-#to summarise RF data by process with count of raw and aggregated RFs and median and IQR of aggregated RFs
+
+# to summarise RF data by process with count of raw and aggregated RFs and median and IQR of aggregated RFs
 procsum1 <- ddply(rfs, c("process.grouped", "process.type"), summarize, countraw=sum(nraw.rf),
                   countagg=length(rf.id), medianagg=round(median(mean.rf), 2), iqragg=round(IQR(mean.rf), 2))
 
@@ -137,15 +137,13 @@ split[order((split$countraw1 + split$countraw2), decreasing=TRUE), ]
 # Scatter plots of RFs
 
 #RFs for black bean by compound on a log scale
-rfs <- read.csv("raw_data.csv", header=T)
-bb <- read.csv("black_bean2.csv", header=T)
+rfs <- read.csv("data/raw_data.csv", header=T)
+bb <- read.csv("data/black_bean2.csv", header=T)
 library(ggplot2)
 library(grid)
 library(scales)
 source("Base breaks function.R")
 theme_set(theme_bw(10))
-
-bb <- rfs %>% filter(food == "Common bean [Black], whole, raw")
 
 fig6a <- ggplot(bb, aes(x=mean.rf, y=reorder(compound, mean.rf), shape=process, colour=process)) +
   geom_point() + scale_shape_manual(values=c(5,6,17,19)) +
@@ -154,10 +152,11 @@ fig6a <- ggplot(bb, aes(x=mean.rf, y=reorder(compound, mean.rf), shape=process, 
         legend.key=element_blank(), axis.title.y=element_blank(),
         #panel.border=element_rect(colour="black"), 
         panel.grid.major=element_blank()) +
+  scale_x_log10(name="Retention factor")
   scale_x_continuous(name="Retention factor", trans=log_trans(), breaks=base_breaks(), labels=prettyNum) +
   scale_colour_brewer(palette="Dark2") + #ggtitle("A")
   
-  ggsave("black bean slide.png", width=180, height=100, unit="mm", dpi=300, plot=fig6a)
+ggsave("black bean slide.png", width=180, height=100, unit="mm", dpi=300, plot=fig6a)
 
 #with lattice
 library(latticeExtra)
